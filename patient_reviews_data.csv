@@ -1,0 +1,1501 @@
+Review_ID,Review_Text,Clinic_Rating,Date
+0,The doctor was very dismissive.,4,2025-01-01 00:00:00
+1,Front desk staff was quite rude.,5,2025-01-01 01:00:00
+2,Excellent facility and friendly staff.,4,2025-01-01 02:00:00
+3,Very professional care.,5,2025-01-01 03:00:00
+4,Scheduling an appointment is a nightmare.,4,2025-01-01 04:00:00
+5,Excellent facility and friendly staff.,5,2025-01-01 05:00:00
+6,Very professional care.,3,2025-01-01 06:00:00
+7,The doctor was very dismissive.,4,2025-01-01 07:00:00
+8,Excellent facility and friendly staff.,4,2025-01-01 08:00:00
+9,Great service but long wait times.,5,2025-01-01 09:00:00
+10,The doctor was very dismissive.,3,2025-01-01 10:00:00
+11,"Clean clinic, highly recommended.",2,2025-01-01 11:00:00
+12,Front desk staff was quite rude.,4,2025-01-01 12:00:00
+13,Very professional care.,3,2025-01-01 13:00:00
+14,Great service but long wait times.,4,2025-01-01 14:00:00
+15,Excellent facility and friendly staff.,5,2025-01-01 15:00:00
+16,"Clean clinic, highly recommended.",5,2025-01-01 16:00:00
+17,Waited 2 hours for a 5 minute checkup.,3,2025-01-01 17:00:00
+18,Front desk staff was quite rude.,2,2025-01-01 18:00:00
+19,Great service but long wait times.,4,2025-01-01 19:00:00
+20,Waited 2 hours for a 5 minute checkup.,4,2025-01-01 20:00:00
+21,Scheduling an appointment is a nightmare.,4,2025-01-01 21:00:00
+22,Great service but long wait times.,5,2025-01-01 22:00:00
+23,"Clean clinic, highly recommended.",4,2025-01-01 23:00:00
+24,Waited 2 hours for a 5 minute checkup.,2,2025-01-02 00:00:00
+25,Scheduling an appointment is a nightmare.,5,2025-01-02 01:00:00
+26,Front desk staff was quite rude.,1,2025-01-02 02:00:00
+27,Waited 2 hours for a 5 minute checkup.,1,2025-01-02 03:00:00
+28,Excellent facility and friendly staff.,5,2025-01-02 04:00:00
+29,The doctor was very dismissive.,4,2025-01-02 05:00:00
+30,Front desk staff was quite rude.,4,2025-01-02 06:00:00
+31,Waited 2 hours for a 5 minute checkup.,3,2025-01-02 07:00:00
+32,Excellent facility and friendly staff.,1,2025-01-02 08:00:00
+33,The doctor was very dismissive.,3,2025-01-02 09:00:00
+34,The doctor was very dismissive.,4,2025-01-02 10:00:00
+35,"Clean clinic, highly recommended.",3,2025-01-02 11:00:00
+36,Very professional care.,4,2025-01-02 12:00:00
+37,Scheduling an appointment is a nightmare.,5,2025-01-02 13:00:00
+38,Very professional care.,4,2025-01-02 14:00:00
+39,Front desk staff was quite rude.,5,2025-01-02 15:00:00
+40,Scheduling an appointment is a nightmare.,5,2025-01-02 16:00:00
+41,Great service but long wait times.,5,2025-01-02 17:00:00
+42,Excellent facility and friendly staff.,4,2025-01-02 18:00:00
+43,"Clean clinic, highly recommended.",3,2025-01-02 19:00:00
+44,Waited 2 hours for a 5 minute checkup.,4,2025-01-02 20:00:00
+45,Excellent facility and friendly staff.,5,2025-01-02 21:00:00
+46,Waited 2 hours for a 5 minute checkup.,3,2025-01-02 22:00:00
+47,Very professional care.,5,2025-01-02 23:00:00
+48,Front desk staff was quite rude.,4,2025-01-03 00:00:00
+49,Waited 2 hours for a 5 minute checkup.,1,2025-01-03 01:00:00
+50,Very professional care.,4,2025-01-03 02:00:00
+51,Very professional care.,1,2025-01-03 03:00:00
+52,Waited 2 hours for a 5 minute checkup.,1,2025-01-03 04:00:00
+53,Great service but long wait times.,5,2025-01-03 05:00:00
+54,Very professional care.,4,2025-01-03 06:00:00
+55,Great service but long wait times.,4,2025-01-03 07:00:00
+56,"Clean clinic, highly recommended.",3,2025-01-03 08:00:00
+57,Great service but long wait times.,4,2025-01-03 09:00:00
+58,"Clean clinic, highly recommended.",2,2025-01-03 10:00:00
+59,Great service but long wait times.,5,2025-01-03 11:00:00
+60,Scheduling an appointment is a nightmare.,5,2025-01-03 12:00:00
+61,"Clean clinic, highly recommended.",5,2025-01-03 13:00:00
+62,Scheduling an appointment is a nightmare.,2,2025-01-03 14:00:00
+63,Very professional care.,4,2025-01-03 15:00:00
+64,Scheduling an appointment is a nightmare.,5,2025-01-03 16:00:00
+65,Front desk staff was quite rude.,2,2025-01-03 17:00:00
+66,"Clean clinic, highly recommended.",1,2025-01-03 18:00:00
+67,Excellent facility and friendly staff.,5,2025-01-03 19:00:00
+68,Very professional care.,5,2025-01-03 20:00:00
+69,Very professional care.,4,2025-01-03 21:00:00
+70,The doctor was very dismissive.,2,2025-01-03 22:00:00
+71,Front desk staff was quite rude.,4,2025-01-03 23:00:00
+72,Great service but long wait times.,3,2025-01-04 00:00:00
+73,Waited 2 hours for a 5 minute checkup.,4,2025-01-04 01:00:00
+74,Great service but long wait times.,4,2025-01-04 02:00:00
+75,Waited 2 hours for a 5 minute checkup.,4,2025-01-04 03:00:00
+76,Excellent facility and friendly staff.,5,2025-01-04 04:00:00
+77,The doctor was very dismissive.,5,2025-01-04 05:00:00
+78,Excellent facility and friendly staff.,4,2025-01-04 06:00:00
+79,The doctor was very dismissive.,2,2025-01-04 07:00:00
+80,"Clean clinic, highly recommended.",3,2025-01-04 08:00:00
+81,"Clean clinic, highly recommended.",1,2025-01-04 09:00:00
+82,Waited 2 hours for a 5 minute checkup.,4,2025-01-04 10:00:00
+83,Scheduling an appointment is a nightmare.,5,2025-01-04 11:00:00
+84,Scheduling an appointment is a nightmare.,4,2025-01-04 12:00:00
+85,Waited 2 hours for a 5 minute checkup.,2,2025-01-04 13:00:00
+86,Front desk staff was quite rude.,3,2025-01-04 14:00:00
+87,"Clean clinic, highly recommended.",1,2025-01-04 15:00:00
+88,Front desk staff was quite rude.,2,2025-01-04 16:00:00
+89,Waited 2 hours for a 5 minute checkup.,4,2025-01-04 17:00:00
+90,Scheduling an appointment is a nightmare.,3,2025-01-04 18:00:00
+91,Waited 2 hours for a 5 minute checkup.,3,2025-01-04 19:00:00
+92,"Clean clinic, highly recommended.",2,2025-01-04 20:00:00
+93,Excellent facility and friendly staff.,4,2025-01-04 21:00:00
+94,Great service but long wait times.,4,2025-01-04 22:00:00
+95,"Clean clinic, highly recommended.",5,2025-01-04 23:00:00
+96,Waited 2 hours for a 5 minute checkup.,2,2025-01-05 00:00:00
+97,"Clean clinic, highly recommended.",5,2025-01-05 01:00:00
+98,"Clean clinic, highly recommended.",4,2025-01-05 02:00:00
+99,Scheduling an appointment is a nightmare.,3,2025-01-05 03:00:00
+100,Waited 2 hours for a 5 minute checkup.,3,2025-01-05 04:00:00
+101,Scheduling an appointment is a nightmare.,3,2025-01-05 05:00:00
+102,Waited 2 hours for a 5 minute checkup.,4,2025-01-05 06:00:00
+103,Scheduling an appointment is a nightmare.,1,2025-01-05 07:00:00
+104,Scheduling an appointment is a nightmare.,5,2025-01-05 08:00:00
+105,Excellent facility and friendly staff.,2,2025-01-05 09:00:00
+106,"Clean clinic, highly recommended.",4,2025-01-05 10:00:00
+107,Front desk staff was quite rude.,3,2025-01-05 11:00:00
+108,Excellent facility and friendly staff.,4,2025-01-05 12:00:00
+109,Front desk staff was quite rude.,5,2025-01-05 13:00:00
+110,Scheduling an appointment is a nightmare.,5,2025-01-05 14:00:00
+111,Excellent facility and friendly staff.,1,2025-01-05 15:00:00
+112,Very professional care.,3,2025-01-05 16:00:00
+113,Very professional care.,5,2025-01-05 17:00:00
+114,"Clean clinic, highly recommended.",3,2025-01-05 18:00:00
+115,"Clean clinic, highly recommended.",4,2025-01-05 19:00:00
+116,Scheduling an appointment is a nightmare.,5,2025-01-05 20:00:00
+117,"Clean clinic, highly recommended.",4,2025-01-05 21:00:00
+118,Excellent facility and friendly staff.,2,2025-01-05 22:00:00
+119,The doctor was very dismissive.,5,2025-01-05 23:00:00
+120,"Clean clinic, highly recommended.",5,2025-01-06 00:00:00
+121,Excellent facility and friendly staff.,5,2025-01-06 01:00:00
+122,Very professional care.,4,2025-01-06 02:00:00
+123,Very professional care.,5,2025-01-06 03:00:00
+124,Excellent facility and friendly staff.,5,2025-01-06 04:00:00
+125,Front desk staff was quite rude.,5,2025-01-06 05:00:00
+126,Very professional care.,4,2025-01-06 06:00:00
+127,Excellent facility and friendly staff.,5,2025-01-06 07:00:00
+128,Front desk staff was quite rude.,4,2025-01-06 08:00:00
+129,"Clean clinic, highly recommended.",2,2025-01-06 09:00:00
+130,The doctor was very dismissive.,4,2025-01-06 10:00:00
+131,Scheduling an appointment is a nightmare.,5,2025-01-06 11:00:00
+132,Scheduling an appointment is a nightmare.,5,2025-01-06 12:00:00
+133,"Clean clinic, highly recommended.",5,2025-01-06 13:00:00
+134,"Clean clinic, highly recommended.",2,2025-01-06 14:00:00
+135,Very professional care.,4,2025-01-06 15:00:00
+136,Great service but long wait times.,4,2025-01-06 16:00:00
+137,Waited 2 hours for a 5 minute checkup.,5,2025-01-06 17:00:00
+138,Front desk staff was quite rude.,1,2025-01-06 18:00:00
+139,The doctor was very dismissive.,5,2025-01-06 19:00:00
+140,Excellent facility and friendly staff.,4,2025-01-06 20:00:00
+141,Waited 2 hours for a 5 minute checkup.,5,2025-01-06 21:00:00
+142,Excellent facility and friendly staff.,4,2025-01-06 22:00:00
+143,Waited 2 hours for a 5 minute checkup.,4,2025-01-06 23:00:00
+144,Scheduling an appointment is a nightmare.,5,2025-01-07 00:00:00
+145,Waited 2 hours for a 5 minute checkup.,5,2025-01-07 01:00:00
+146,"Clean clinic, highly recommended.",1,2025-01-07 02:00:00
+147,The doctor was very dismissive.,2,2025-01-07 03:00:00
+148,Scheduling an appointment is a nightmare.,5,2025-01-07 04:00:00
+149,Very professional care.,3,2025-01-07 05:00:00
+150,Waited 2 hours for a 5 minute checkup.,5,2025-01-07 06:00:00
+151,The doctor was very dismissive.,4,2025-01-07 07:00:00
+152,"Clean clinic, highly recommended.",5,2025-01-07 08:00:00
+153,Very professional care.,4,2025-01-07 09:00:00
+154,Excellent facility and friendly staff.,5,2025-01-07 10:00:00
+155,Very professional care.,1,2025-01-07 11:00:00
+156,Front desk staff was quite rude.,4,2025-01-07 12:00:00
+157,Front desk staff was quite rude.,2,2025-01-07 13:00:00
+158,Great service but long wait times.,5,2025-01-07 14:00:00
+159,The doctor was very dismissive.,5,2025-01-07 15:00:00
+160,Front desk staff was quite rude.,3,2025-01-07 16:00:00
+161,Excellent facility and friendly staff.,3,2025-01-07 17:00:00
+162,The doctor was very dismissive.,5,2025-01-07 18:00:00
+163,The doctor was very dismissive.,5,2025-01-07 19:00:00
+164,The doctor was very dismissive.,4,2025-01-07 20:00:00
+165,"Clean clinic, highly recommended.",5,2025-01-07 21:00:00
+166,Front desk staff was quite rude.,5,2025-01-07 22:00:00
+167,Scheduling an appointment is a nightmare.,4,2025-01-07 23:00:00
+168,The doctor was very dismissive.,3,2025-01-08 00:00:00
+169,"Clean clinic, highly recommended.",4,2025-01-08 01:00:00
+170,Great service but long wait times.,5,2025-01-08 02:00:00
+171,Front desk staff was quite rude.,4,2025-01-08 03:00:00
+172,Scheduling an appointment is a nightmare.,5,2025-01-08 04:00:00
+173,"Clean clinic, highly recommended.",1,2025-01-08 05:00:00
+174,Very professional care.,5,2025-01-08 06:00:00
+175,Great service but long wait times.,5,2025-01-08 07:00:00
+176,Very professional care.,3,2025-01-08 08:00:00
+177,Scheduling an appointment is a nightmare.,3,2025-01-08 09:00:00
+178,"Clean clinic, highly recommended.",2,2025-01-08 10:00:00
+179,Great service but long wait times.,5,2025-01-08 11:00:00
+180,"Clean clinic, highly recommended.",5,2025-01-08 12:00:00
+181,Great service but long wait times.,4,2025-01-08 13:00:00
+182,The doctor was very dismissive.,2,2025-01-08 14:00:00
+183,The doctor was very dismissive.,3,2025-01-08 15:00:00
+184,Front desk staff was quite rude.,4,2025-01-08 16:00:00
+185,Scheduling an appointment is a nightmare.,3,2025-01-08 17:00:00
+186,Great service but long wait times.,4,2025-01-08 18:00:00
+187,The doctor was very dismissive.,3,2025-01-08 19:00:00
+188,Scheduling an appointment is a nightmare.,3,2025-01-08 20:00:00
+189,Excellent facility and friendly staff.,4,2025-01-08 21:00:00
+190,The doctor was very dismissive.,5,2025-01-08 22:00:00
+191,The doctor was very dismissive.,3,2025-01-08 23:00:00
+192,Waited 2 hours for a 5 minute checkup.,4,2025-01-09 00:00:00
+193,"Clean clinic, highly recommended.",2,2025-01-09 01:00:00
+194,Excellent facility and friendly staff.,4,2025-01-09 02:00:00
+195,Great service but long wait times.,5,2025-01-09 03:00:00
+196,Scheduling an appointment is a nightmare.,1,2025-01-09 04:00:00
+197,Excellent facility and friendly staff.,3,2025-01-09 05:00:00
+198,Great service but long wait times.,2,2025-01-09 06:00:00
+199,The doctor was very dismissive.,4,2025-01-09 07:00:00
+200,Very professional care.,4,2025-01-09 08:00:00
+201,Waited 2 hours for a 5 minute checkup.,1,2025-01-09 09:00:00
+202,Front desk staff was quite rude.,1,2025-01-09 10:00:00
+203,Very professional care.,5,2025-01-09 11:00:00
+204,Front desk staff was quite rude.,4,2025-01-09 12:00:00
+205,Scheduling an appointment is a nightmare.,4,2025-01-09 13:00:00
+206,Scheduling an appointment is a nightmare.,5,2025-01-09 14:00:00
+207,Excellent facility and friendly staff.,3,2025-01-09 15:00:00
+208,Front desk staff was quite rude.,5,2025-01-09 16:00:00
+209,"Clean clinic, highly recommended.",5,2025-01-09 17:00:00
+210,Great service but long wait times.,3,2025-01-09 18:00:00
+211,Front desk staff was quite rude.,4,2025-01-09 19:00:00
+212,Waited 2 hours for a 5 minute checkup.,4,2025-01-09 20:00:00
+213,Front desk staff was quite rude.,5,2025-01-09 21:00:00
+214,Front desk staff was quite rude.,3,2025-01-09 22:00:00
+215,Waited 2 hours for a 5 minute checkup.,5,2025-01-09 23:00:00
+216,Very professional care.,5,2025-01-10 00:00:00
+217,Excellent facility and friendly staff.,5,2025-01-10 01:00:00
+218,Front desk staff was quite rude.,5,2025-01-10 02:00:00
+219,"Clean clinic, highly recommended.",5,2025-01-10 03:00:00
+220,"Clean clinic, highly recommended.",5,2025-01-10 04:00:00
+221,"Clean clinic, highly recommended.",2,2025-01-10 05:00:00
+222,Scheduling an appointment is a nightmare.,5,2025-01-10 06:00:00
+223,Great service but long wait times.,5,2025-01-10 07:00:00
+224,Great service but long wait times.,4,2025-01-10 08:00:00
+225,Very professional care.,1,2025-01-10 09:00:00
+226,Front desk staff was quite rude.,4,2025-01-10 10:00:00
+227,Excellent facility and friendly staff.,1,2025-01-10 11:00:00
+228,The doctor was very dismissive.,3,2025-01-10 12:00:00
+229,Excellent facility and friendly staff.,3,2025-01-10 13:00:00
+230,Front desk staff was quite rude.,5,2025-01-10 14:00:00
+231,Great service but long wait times.,3,2025-01-10 15:00:00
+232,Front desk staff was quite rude.,5,2025-01-10 16:00:00
+233,Very professional care.,1,2025-01-10 17:00:00
+234,Scheduling an appointment is a nightmare.,4,2025-01-10 18:00:00
+235,Front desk staff was quite rude.,4,2025-01-10 19:00:00
+236,Excellent facility and friendly staff.,4,2025-01-10 20:00:00
+237,Very professional care.,5,2025-01-10 21:00:00
+238,The doctor was very dismissive.,5,2025-01-10 22:00:00
+239,Waited 2 hours for a 5 minute checkup.,5,2025-01-10 23:00:00
+240,Excellent facility and friendly staff.,4,2025-01-11 00:00:00
+241,Front desk staff was quite rude.,5,2025-01-11 01:00:00
+242,Very professional care.,4,2025-01-11 02:00:00
+243,"Clean clinic, highly recommended.",1,2025-01-11 03:00:00
+244,The doctor was very dismissive.,5,2025-01-11 04:00:00
+245,"Clean clinic, highly recommended.",5,2025-01-11 05:00:00
+246,Scheduling an appointment is a nightmare.,3,2025-01-11 06:00:00
+247,Great service but long wait times.,5,2025-01-11 07:00:00
+248,Excellent facility and friendly staff.,5,2025-01-11 08:00:00
+249,Very professional care.,4,2025-01-11 09:00:00
+250,Excellent facility and friendly staff.,3,2025-01-11 10:00:00
+251,"Clean clinic, highly recommended.",5,2025-01-11 11:00:00
+252,"Clean clinic, highly recommended.",5,2025-01-11 12:00:00
+253,Great service but long wait times.,3,2025-01-11 13:00:00
+254,Very professional care.,4,2025-01-11 14:00:00
+255,Excellent facility and friendly staff.,4,2025-01-11 15:00:00
+256,Very professional care.,4,2025-01-11 16:00:00
+257,Great service but long wait times.,4,2025-01-11 17:00:00
+258,"Clean clinic, highly recommended.",4,2025-01-11 18:00:00
+259,Front desk staff was quite rude.,4,2025-01-11 19:00:00
+260,Waited 2 hours for a 5 minute checkup.,5,2025-01-11 20:00:00
+261,Very professional care.,5,2025-01-11 21:00:00
+262,"Clean clinic, highly recommended.",5,2025-01-11 22:00:00
+263,The doctor was very dismissive.,5,2025-01-11 23:00:00
+264,"Clean clinic, highly recommended.",5,2025-01-12 00:00:00
+265,"Clean clinic, highly recommended.",3,2025-01-12 01:00:00
+266,Very professional care.,5,2025-01-12 02:00:00
+267,Waited 2 hours for a 5 minute checkup.,1,2025-01-12 03:00:00
+268,Great service but long wait times.,3,2025-01-12 04:00:00
+269,The doctor was very dismissive.,4,2025-01-12 05:00:00
+270,The doctor was very dismissive.,4,2025-01-12 06:00:00
+271,Excellent facility and friendly staff.,4,2025-01-12 07:00:00
+272,Waited 2 hours for a 5 minute checkup.,5,2025-01-12 08:00:00
+273,Front desk staff was quite rude.,2,2025-01-12 09:00:00
+274,Scheduling an appointment is a nightmare.,5,2025-01-12 10:00:00
+275,Excellent facility and friendly staff.,4,2025-01-12 11:00:00
+276,Excellent facility and friendly staff.,5,2025-01-12 12:00:00
+277,Front desk staff was quite rude.,3,2025-01-12 13:00:00
+278,Excellent facility and friendly staff.,4,2025-01-12 14:00:00
+279,The doctor was very dismissive.,4,2025-01-12 15:00:00
+280,Great service but long wait times.,4,2025-01-12 16:00:00
+281,Very professional care.,2,2025-01-12 17:00:00
+282,Front desk staff was quite rude.,4,2025-01-12 18:00:00
+283,"Clean clinic, highly recommended.",1,2025-01-12 19:00:00
+284,The doctor was very dismissive.,4,2025-01-12 20:00:00
+285,"Clean clinic, highly recommended.",5,2025-01-12 21:00:00
+286,Front desk staff was quite rude.,1,2025-01-12 22:00:00
+287,"Clean clinic, highly recommended.",4,2025-01-12 23:00:00
+288,Scheduling an appointment is a nightmare.,5,2025-01-13 00:00:00
+289,Very professional care.,3,2025-01-13 01:00:00
+290,Excellent facility and friendly staff.,3,2025-01-13 02:00:00
+291,Scheduling an appointment is a nightmare.,3,2025-01-13 03:00:00
+292,Excellent facility and friendly staff.,3,2025-01-13 04:00:00
+293,The doctor was very dismissive.,2,2025-01-13 05:00:00
+294,"Clean clinic, highly recommended.",3,2025-01-13 06:00:00
+295,Scheduling an appointment is a nightmare.,3,2025-01-13 07:00:00
+296,Front desk staff was quite rude.,5,2025-01-13 08:00:00
+297,Front desk staff was quite rude.,5,2025-01-13 09:00:00
+298,Waited 2 hours for a 5 minute checkup.,5,2025-01-13 10:00:00
+299,The doctor was very dismissive.,4,2025-01-13 11:00:00
+300,The doctor was very dismissive.,3,2025-01-13 12:00:00
+301,Front desk staff was quite rude.,4,2025-01-13 13:00:00
+302,Waited 2 hours for a 5 minute checkup.,3,2025-01-13 14:00:00
+303,Excellent facility and friendly staff.,4,2025-01-13 15:00:00
+304,"Clean clinic, highly recommended.",5,2025-01-13 16:00:00
+305,Excellent facility and friendly staff.,3,2025-01-13 17:00:00
+306,Excellent facility and friendly staff.,4,2025-01-13 18:00:00
+307,The doctor was very dismissive.,4,2025-01-13 19:00:00
+308,Front desk staff was quite rude.,5,2025-01-13 20:00:00
+309,Excellent facility and friendly staff.,3,2025-01-13 21:00:00
+310,Great service but long wait times.,3,2025-01-13 22:00:00
+311,Waited 2 hours for a 5 minute checkup.,5,2025-01-13 23:00:00
+312,Very professional care.,1,2025-01-14 00:00:00
+313,Waited 2 hours for a 5 minute checkup.,4,2025-01-14 01:00:00
+314,"Clean clinic, highly recommended.",5,2025-01-14 02:00:00
+315,Waited 2 hours for a 5 minute checkup.,5,2025-01-14 03:00:00
+316,Front desk staff was quite rude.,1,2025-01-14 04:00:00
+317,Excellent facility and friendly staff.,3,2025-01-14 05:00:00
+318,Excellent facility and friendly staff.,3,2025-01-14 06:00:00
+319,Scheduling an appointment is a nightmare.,4,2025-01-14 07:00:00
+320,"Clean clinic, highly recommended.",4,2025-01-14 08:00:00
+321,"Clean clinic, highly recommended.",5,2025-01-14 09:00:00
+322,Waited 2 hours for a 5 minute checkup.,4,2025-01-14 10:00:00
+323,Excellent facility and friendly staff.,4,2025-01-14 11:00:00
+324,Great service but long wait times.,4,2025-01-14 12:00:00
+325,Front desk staff was quite rude.,2,2025-01-14 13:00:00
+326,Front desk staff was quite rude.,3,2025-01-14 14:00:00
+327,Scheduling an appointment is a nightmare.,3,2025-01-14 15:00:00
+328,Great service but long wait times.,5,2025-01-14 16:00:00
+329,Front desk staff was quite rude.,4,2025-01-14 17:00:00
+330,Excellent facility and friendly staff.,3,2025-01-14 18:00:00
+331,"Clean clinic, highly recommended.",4,2025-01-14 19:00:00
+332,"Clean clinic, highly recommended.",3,2025-01-14 20:00:00
+333,Very professional care.,2,2025-01-14 21:00:00
+334,Front desk staff was quite rude.,5,2025-01-14 22:00:00
+335,Great service but long wait times.,5,2025-01-14 23:00:00
+336,Very professional care.,1,2025-01-15 00:00:00
+337,Very professional care.,5,2025-01-15 01:00:00
+338,The doctor was very dismissive.,4,2025-01-15 02:00:00
+339,Front desk staff was quite rude.,3,2025-01-15 03:00:00
+340,Front desk staff was quite rude.,4,2025-01-15 04:00:00
+341,Excellent facility and friendly staff.,3,2025-01-15 05:00:00
+342,"Clean clinic, highly recommended.",1,2025-01-15 06:00:00
+343,Waited 2 hours for a 5 minute checkup.,3,2025-01-15 07:00:00
+344,The doctor was very dismissive.,2,2025-01-15 08:00:00
+345,"Clean clinic, highly recommended.",1,2025-01-15 09:00:00
+346,Waited 2 hours for a 5 minute checkup.,3,2025-01-15 10:00:00
+347,"Clean clinic, highly recommended.",4,2025-01-15 11:00:00
+348,The doctor was very dismissive.,5,2025-01-15 12:00:00
+349,Great service but long wait times.,3,2025-01-15 13:00:00
+350,Excellent facility and friendly staff.,2,2025-01-15 14:00:00
+351,Very professional care.,3,2025-01-15 15:00:00
+352,The doctor was very dismissive.,5,2025-01-15 16:00:00
+353,The doctor was very dismissive.,3,2025-01-15 17:00:00
+354,Very professional care.,5,2025-01-15 18:00:00
+355,Front desk staff was quite rude.,4,2025-01-15 19:00:00
+356,"Clean clinic, highly recommended.",5,2025-01-15 20:00:00
+357,Front desk staff was quite rude.,4,2025-01-15 21:00:00
+358,Waited 2 hours for a 5 minute checkup.,2,2025-01-15 22:00:00
+359,Very professional care.,4,2025-01-15 23:00:00
+360,The doctor was very dismissive.,4,2025-01-16 00:00:00
+361,Front desk staff was quite rude.,4,2025-01-16 01:00:00
+362,Excellent facility and friendly staff.,4,2025-01-16 02:00:00
+363,Very professional care.,1,2025-01-16 03:00:00
+364,Very professional care.,4,2025-01-16 04:00:00
+365,Great service but long wait times.,5,2025-01-16 05:00:00
+366,Waited 2 hours for a 5 minute checkup.,5,2025-01-16 06:00:00
+367,Front desk staff was quite rude.,4,2025-01-16 07:00:00
+368,Great service but long wait times.,1,2025-01-16 08:00:00
+369,Front desk staff was quite rude.,2,2025-01-16 09:00:00
+370,Great service but long wait times.,5,2025-01-16 10:00:00
+371,Excellent facility and friendly staff.,5,2025-01-16 11:00:00
+372,"Clean clinic, highly recommended.",5,2025-01-16 12:00:00
+373,Waited 2 hours for a 5 minute checkup.,4,2025-01-16 13:00:00
+374,Waited 2 hours for a 5 minute checkup.,5,2025-01-16 14:00:00
+375,Front desk staff was quite rude.,5,2025-01-16 15:00:00
+376,Very professional care.,4,2025-01-16 16:00:00
+377,Excellent facility and friendly staff.,5,2025-01-16 17:00:00
+378,Front desk staff was quite rude.,2,2025-01-16 18:00:00
+379,Waited 2 hours for a 5 minute checkup.,4,2025-01-16 19:00:00
+380,The doctor was very dismissive.,5,2025-01-16 20:00:00
+381,Scheduling an appointment is a nightmare.,2,2025-01-16 21:00:00
+382,Very professional care.,5,2025-01-16 22:00:00
+383,Scheduling an appointment is a nightmare.,3,2025-01-16 23:00:00
+384,Scheduling an appointment is a nightmare.,5,2025-01-17 00:00:00
+385,Great service but long wait times.,4,2025-01-17 01:00:00
+386,Front desk staff was quite rude.,5,2025-01-17 02:00:00
+387,Waited 2 hours for a 5 minute checkup.,5,2025-01-17 03:00:00
+388,Front desk staff was quite rude.,4,2025-01-17 04:00:00
+389,Very professional care.,1,2025-01-17 05:00:00
+390,Excellent facility and friendly staff.,5,2025-01-17 06:00:00
+391,Waited 2 hours for a 5 minute checkup.,4,2025-01-17 07:00:00
+392,Excellent facility and friendly staff.,4,2025-01-17 08:00:00
+393,Front desk staff was quite rude.,2,2025-01-17 09:00:00
+394,Waited 2 hours for a 5 minute checkup.,5,2025-01-17 10:00:00
+395,Very professional care.,4,2025-01-17 11:00:00
+396,Front desk staff was quite rude.,5,2025-01-17 12:00:00
+397,Very professional care.,5,2025-01-17 13:00:00
+398,Great service but long wait times.,2,2025-01-17 14:00:00
+399,Very professional care.,4,2025-01-17 15:00:00
+400,The doctor was very dismissive.,5,2025-01-17 16:00:00
+401,Scheduling an appointment is a nightmare.,5,2025-01-17 17:00:00
+402,Scheduling an appointment is a nightmare.,4,2025-01-17 18:00:00
+403,Waited 2 hours for a 5 minute checkup.,5,2025-01-17 19:00:00
+404,Great service but long wait times.,3,2025-01-17 20:00:00
+405,Scheduling an appointment is a nightmare.,3,2025-01-17 21:00:00
+406,Waited 2 hours for a 5 minute checkup.,5,2025-01-17 22:00:00
+407,Very professional care.,3,2025-01-17 23:00:00
+408,"Clean clinic, highly recommended.",4,2025-01-18 00:00:00
+409,Waited 2 hours for a 5 minute checkup.,5,2025-01-18 01:00:00
+410,Excellent facility and friendly staff.,4,2025-01-18 02:00:00
+411,Scheduling an appointment is a nightmare.,2,2025-01-18 03:00:00
+412,Scheduling an appointment is a nightmare.,4,2025-01-18 04:00:00
+413,"Clean clinic, highly recommended.",4,2025-01-18 05:00:00
+414,Very professional care.,4,2025-01-18 06:00:00
+415,The doctor was very dismissive.,5,2025-01-18 07:00:00
+416,Front desk staff was quite rude.,2,2025-01-18 08:00:00
+417,Waited 2 hours for a 5 minute checkup.,5,2025-01-18 09:00:00
+418,The doctor was very dismissive.,5,2025-01-18 10:00:00
+419,Waited 2 hours for a 5 minute checkup.,5,2025-01-18 11:00:00
+420,"Clean clinic, highly recommended.",4,2025-01-18 12:00:00
+421,The doctor was very dismissive.,3,2025-01-18 13:00:00
+422,Great service but long wait times.,3,2025-01-18 14:00:00
+423,"Clean clinic, highly recommended.",5,2025-01-18 15:00:00
+424,Very professional care.,4,2025-01-18 16:00:00
+425,Front desk staff was quite rude.,3,2025-01-18 17:00:00
+426,Waited 2 hours for a 5 minute checkup.,4,2025-01-18 18:00:00
+427,Excellent facility and friendly staff.,5,2025-01-18 19:00:00
+428,Very professional care.,1,2025-01-18 20:00:00
+429,Very professional care.,5,2025-01-18 21:00:00
+430,Excellent facility and friendly staff.,1,2025-01-18 22:00:00
+431,Excellent facility and friendly staff.,4,2025-01-18 23:00:00
+432,Waited 2 hours for a 5 minute checkup.,4,2025-01-19 00:00:00
+433,Very professional care.,2,2025-01-19 01:00:00
+434,Scheduling an appointment is a nightmare.,5,2025-01-19 02:00:00
+435,"Clean clinic, highly recommended.",4,2025-01-19 03:00:00
+436,"Clean clinic, highly recommended.",2,2025-01-19 04:00:00
+437,Front desk staff was quite rude.,5,2025-01-19 05:00:00
+438,The doctor was very dismissive.,4,2025-01-19 06:00:00
+439,"Clean clinic, highly recommended.",5,2025-01-19 07:00:00
+440,Front desk staff was quite rude.,4,2025-01-19 08:00:00
+441,Front desk staff was quite rude.,3,2025-01-19 09:00:00
+442,Very professional care.,1,2025-01-19 10:00:00
+443,"Clean clinic, highly recommended.",5,2025-01-19 11:00:00
+444,Very professional care.,4,2025-01-19 12:00:00
+445,The doctor was very dismissive.,5,2025-01-19 13:00:00
+446,"Clean clinic, highly recommended.",5,2025-01-19 14:00:00
+447,"Clean clinic, highly recommended.",5,2025-01-19 15:00:00
+448,Front desk staff was quite rude.,5,2025-01-19 16:00:00
+449,Great service but long wait times.,4,2025-01-19 17:00:00
+450,Waited 2 hours for a 5 minute checkup.,2,2025-01-19 18:00:00
+451,The doctor was very dismissive.,2,2025-01-19 19:00:00
+452,Great service but long wait times.,3,2025-01-19 20:00:00
+453,Scheduling an appointment is a nightmare.,4,2025-01-19 21:00:00
+454,The doctor was very dismissive.,2,2025-01-19 22:00:00
+455,Very professional care.,3,2025-01-19 23:00:00
+456,Waited 2 hours for a 5 minute checkup.,3,2025-01-20 00:00:00
+457,"Clean clinic, highly recommended.",1,2025-01-20 01:00:00
+458,Very professional care.,3,2025-01-20 02:00:00
+459,"Clean clinic, highly recommended.",2,2025-01-20 03:00:00
+460,Great service but long wait times.,4,2025-01-20 04:00:00
+461,Great service but long wait times.,2,2025-01-20 05:00:00
+462,Scheduling an appointment is a nightmare.,5,2025-01-20 06:00:00
+463,Scheduling an appointment is a nightmare.,1,2025-01-20 07:00:00
+464,Waited 2 hours for a 5 minute checkup.,5,2025-01-20 08:00:00
+465,"Clean clinic, highly recommended.",4,2025-01-20 09:00:00
+466,Very professional care.,4,2025-01-20 10:00:00
+467,Excellent facility and friendly staff.,4,2025-01-20 11:00:00
+468,Very professional care.,3,2025-01-20 12:00:00
+469,Front desk staff was quite rude.,2,2025-01-20 13:00:00
+470,Scheduling an appointment is a nightmare.,5,2025-01-20 14:00:00
+471,"Clean clinic, highly recommended.",5,2025-01-20 15:00:00
+472,Very professional care.,5,2025-01-20 16:00:00
+473,Very professional care.,4,2025-01-20 17:00:00
+474,Scheduling an appointment is a nightmare.,4,2025-01-20 18:00:00
+475,Front desk staff was quite rude.,4,2025-01-20 19:00:00
+476,Very professional care.,4,2025-01-20 20:00:00
+477,Very professional care.,5,2025-01-20 21:00:00
+478,The doctor was very dismissive.,3,2025-01-20 22:00:00
+479,Front desk staff was quite rude.,5,2025-01-20 23:00:00
+480,Great service but long wait times.,3,2025-01-21 00:00:00
+481,"Clean clinic, highly recommended.",4,2025-01-21 01:00:00
+482,Very professional care.,5,2025-01-21 02:00:00
+483,Scheduling an appointment is a nightmare.,5,2025-01-21 03:00:00
+484,Great service but long wait times.,4,2025-01-21 04:00:00
+485,Front desk staff was quite rude.,3,2025-01-21 05:00:00
+486,Very professional care.,3,2025-01-21 06:00:00
+487,Very professional care.,1,2025-01-21 07:00:00
+488,Excellent facility and friendly staff.,5,2025-01-21 08:00:00
+489,Scheduling an appointment is a nightmare.,4,2025-01-21 09:00:00
+490,"Clean clinic, highly recommended.",4,2025-01-21 10:00:00
+491,The doctor was very dismissive.,4,2025-01-21 11:00:00
+492,Great service but long wait times.,4,2025-01-21 12:00:00
+493,Front desk staff was quite rude.,4,2025-01-21 13:00:00
+494,Great service but long wait times.,5,2025-01-21 14:00:00
+495,The doctor was very dismissive.,1,2025-01-21 15:00:00
+496,"Clean clinic, highly recommended.",5,2025-01-21 16:00:00
+497,Waited 2 hours for a 5 minute checkup.,3,2025-01-21 17:00:00
+498,Front desk staff was quite rude.,5,2025-01-21 18:00:00
+499,Excellent facility and friendly staff.,5,2025-01-21 19:00:00
+500,Waited 2 hours for a 5 minute checkup.,3,2025-01-21 20:00:00
+501,Front desk staff was quite rude.,1,2025-01-21 21:00:00
+502,Very professional care.,3,2025-01-21 22:00:00
+503,The doctor was very dismissive.,3,2025-01-21 23:00:00
+504,Excellent facility and friendly staff.,5,2025-01-22 00:00:00
+505,"Clean clinic, highly recommended.",1,2025-01-22 01:00:00
+506,Scheduling an appointment is a nightmare.,1,2025-01-22 02:00:00
+507,Scheduling an appointment is a nightmare.,4,2025-01-22 03:00:00
+508,Front desk staff was quite rude.,4,2025-01-22 04:00:00
+509,Front desk staff was quite rude.,4,2025-01-22 05:00:00
+510,Waited 2 hours for a 5 minute checkup.,4,2025-01-22 06:00:00
+511,"Clean clinic, highly recommended.",5,2025-01-22 07:00:00
+512,Excellent facility and friendly staff.,2,2025-01-22 08:00:00
+513,Front desk staff was quite rude.,4,2025-01-22 09:00:00
+514,Front desk staff was quite rude.,5,2025-01-22 10:00:00
+515,Waited 2 hours for a 5 minute checkup.,3,2025-01-22 11:00:00
+516,The doctor was very dismissive.,5,2025-01-22 12:00:00
+517,Waited 2 hours for a 5 minute checkup.,5,2025-01-22 13:00:00
+518,"Clean clinic, highly recommended.",5,2025-01-22 14:00:00
+519,Very professional care.,4,2025-01-22 15:00:00
+520,"Clean clinic, highly recommended.",5,2025-01-22 16:00:00
+521,Scheduling an appointment is a nightmare.,5,2025-01-22 17:00:00
+522,The doctor was very dismissive.,5,2025-01-22 18:00:00
+523,Scheduling an appointment is a nightmare.,4,2025-01-22 19:00:00
+524,Excellent facility and friendly staff.,2,2025-01-22 20:00:00
+525,Excellent facility and friendly staff.,3,2025-01-22 21:00:00
+526,Great service but long wait times.,3,2025-01-22 22:00:00
+527,"Clean clinic, highly recommended.",3,2025-01-22 23:00:00
+528,The doctor was very dismissive.,4,2025-01-23 00:00:00
+529,The doctor was very dismissive.,5,2025-01-23 01:00:00
+530,Scheduling an appointment is a nightmare.,5,2025-01-23 02:00:00
+531,Waited 2 hours for a 5 minute checkup.,5,2025-01-23 03:00:00
+532,Waited 2 hours for a 5 minute checkup.,5,2025-01-23 04:00:00
+533,Scheduling an appointment is a nightmare.,5,2025-01-23 05:00:00
+534,Very professional care.,5,2025-01-23 06:00:00
+535,Waited 2 hours for a 5 minute checkup.,1,2025-01-23 07:00:00
+536,The doctor was very dismissive.,4,2025-01-23 08:00:00
+537,Front desk staff was quite rude.,4,2025-01-23 09:00:00
+538,Front desk staff was quite rude.,2,2025-01-23 10:00:00
+539,Front desk staff was quite rude.,5,2025-01-23 11:00:00
+540,Scheduling an appointment is a nightmare.,2,2025-01-23 12:00:00
+541,Front desk staff was quite rude.,3,2025-01-23 13:00:00
+542,Waited 2 hours for a 5 minute checkup.,1,2025-01-23 14:00:00
+543,Great service but long wait times.,4,2025-01-23 15:00:00
+544,"Clean clinic, highly recommended.",4,2025-01-23 16:00:00
+545,Great service but long wait times.,5,2025-01-23 17:00:00
+546,Waited 2 hours for a 5 minute checkup.,3,2025-01-23 18:00:00
+547,Excellent facility and friendly staff.,4,2025-01-23 19:00:00
+548,The doctor was very dismissive.,5,2025-01-23 20:00:00
+549,Great service but long wait times.,5,2025-01-23 21:00:00
+550,Great service but long wait times.,3,2025-01-23 22:00:00
+551,Scheduling an appointment is a nightmare.,1,2025-01-23 23:00:00
+552,Scheduling an appointment is a nightmare.,1,2025-01-24 00:00:00
+553,Scheduling an appointment is a nightmare.,5,2025-01-24 01:00:00
+554,Waited 2 hours for a 5 minute checkup.,3,2025-01-24 02:00:00
+555,Very professional care.,2,2025-01-24 03:00:00
+556,Very professional care.,2,2025-01-24 04:00:00
+557,Front desk staff was quite rude.,5,2025-01-24 05:00:00
+558,Excellent facility and friendly staff.,4,2025-01-24 06:00:00
+559,Great service but long wait times.,4,2025-01-24 07:00:00
+560,"Clean clinic, highly recommended.",4,2025-01-24 08:00:00
+561,Front desk staff was quite rude.,2,2025-01-24 09:00:00
+562,Front desk staff was quite rude.,3,2025-01-24 10:00:00
+563,Scheduling an appointment is a nightmare.,3,2025-01-24 11:00:00
+564,Excellent facility and friendly staff.,3,2025-01-24 12:00:00
+565,Waited 2 hours for a 5 minute checkup.,5,2025-01-24 13:00:00
+566,Front desk staff was quite rude.,4,2025-01-24 14:00:00
+567,Excellent facility and friendly staff.,5,2025-01-24 15:00:00
+568,Scheduling an appointment is a nightmare.,3,2025-01-24 16:00:00
+569,The doctor was very dismissive.,3,2025-01-24 17:00:00
+570,Front desk staff was quite rude.,3,2025-01-24 18:00:00
+571,Great service but long wait times.,4,2025-01-24 19:00:00
+572,Scheduling an appointment is a nightmare.,3,2025-01-24 20:00:00
+573,"Clean clinic, highly recommended.",4,2025-01-24 21:00:00
+574,Great service but long wait times.,5,2025-01-24 22:00:00
+575,Excellent facility and friendly staff.,5,2025-01-24 23:00:00
+576,Very professional care.,2,2025-01-25 00:00:00
+577,"Clean clinic, highly recommended.",1,2025-01-25 01:00:00
+578,Great service but long wait times.,2,2025-01-25 02:00:00
+579,Front desk staff was quite rude.,5,2025-01-25 03:00:00
+580,Front desk staff was quite rude.,2,2025-01-25 04:00:00
+581,"Clean clinic, highly recommended.",4,2025-01-25 05:00:00
+582,Excellent facility and friendly staff.,4,2025-01-25 06:00:00
+583,Front desk staff was quite rude.,3,2025-01-25 07:00:00
+584,Front desk staff was quite rude.,1,2025-01-25 08:00:00
+585,Scheduling an appointment is a nightmare.,3,2025-01-25 09:00:00
+586,Very professional care.,2,2025-01-25 10:00:00
+587,"Clean clinic, highly recommended.",2,2025-01-25 11:00:00
+588,Scheduling an appointment is a nightmare.,4,2025-01-25 12:00:00
+589,Very professional care.,4,2025-01-25 13:00:00
+590,Excellent facility and friendly staff.,1,2025-01-25 14:00:00
+591,Very professional care.,4,2025-01-25 15:00:00
+592,Excellent facility and friendly staff.,3,2025-01-25 16:00:00
+593,Front desk staff was quite rude.,4,2025-01-25 17:00:00
+594,"Clean clinic, highly recommended.",5,2025-01-25 18:00:00
+595,"Clean clinic, highly recommended.",5,2025-01-25 19:00:00
+596,Excellent facility and friendly staff.,3,2025-01-25 20:00:00
+597,"Clean clinic, highly recommended.",4,2025-01-25 21:00:00
+598,Front desk staff was quite rude.,5,2025-01-25 22:00:00
+599,"Clean clinic, highly recommended.",1,2025-01-25 23:00:00
+600,"Clean clinic, highly recommended.",4,2025-01-26 00:00:00
+601,Waited 2 hours for a 5 minute checkup.,5,2025-01-26 01:00:00
+602,"Clean clinic, highly recommended.",3,2025-01-26 02:00:00
+603,Great service but long wait times.,4,2025-01-26 03:00:00
+604,Excellent facility and friendly staff.,4,2025-01-26 04:00:00
+605,Excellent facility and friendly staff.,1,2025-01-26 05:00:00
+606,The doctor was very dismissive.,3,2025-01-26 06:00:00
+607,Scheduling an appointment is a nightmare.,3,2025-01-26 07:00:00
+608,The doctor was very dismissive.,1,2025-01-26 08:00:00
+609,"Clean clinic, highly recommended.",2,2025-01-26 09:00:00
+610,"Clean clinic, highly recommended.",3,2025-01-26 10:00:00
+611,Front desk staff was quite rude.,2,2025-01-26 11:00:00
+612,Front desk staff was quite rude.,4,2025-01-26 12:00:00
+613,Very professional care.,4,2025-01-26 13:00:00
+614,Great service but long wait times.,1,2025-01-26 14:00:00
+615,Great service but long wait times.,3,2025-01-26 15:00:00
+616,Great service but long wait times.,1,2025-01-26 16:00:00
+617,Great service but long wait times.,3,2025-01-26 17:00:00
+618,Great service but long wait times.,3,2025-01-26 18:00:00
+619,Great service but long wait times.,4,2025-01-26 19:00:00
+620,Great service but long wait times.,3,2025-01-26 20:00:00
+621,Great service but long wait times.,3,2025-01-26 21:00:00
+622,Very professional care.,5,2025-01-26 22:00:00
+623,Waited 2 hours for a 5 minute checkup.,4,2025-01-26 23:00:00
+624,Great service but long wait times.,4,2025-01-27 00:00:00
+625,Excellent facility and friendly staff.,5,2025-01-27 01:00:00
+626,Great service but long wait times.,3,2025-01-27 02:00:00
+627,Scheduling an appointment is a nightmare.,5,2025-01-27 03:00:00
+628,Great service but long wait times.,5,2025-01-27 04:00:00
+629,Waited 2 hours for a 5 minute checkup.,3,2025-01-27 05:00:00
+630,Very professional care.,5,2025-01-27 06:00:00
+631,Front desk staff was quite rude.,5,2025-01-27 07:00:00
+632,Front desk staff was quite rude.,5,2025-01-27 08:00:00
+633,"Clean clinic, highly recommended.",4,2025-01-27 09:00:00
+634,Waited 2 hours for a 5 minute checkup.,4,2025-01-27 10:00:00
+635,Waited 2 hours for a 5 minute checkup.,1,2025-01-27 11:00:00
+636,"Clean clinic, highly recommended.",4,2025-01-27 12:00:00
+637,Great service but long wait times.,3,2025-01-27 13:00:00
+638,Very professional care.,3,2025-01-27 14:00:00
+639,Very professional care.,5,2025-01-27 15:00:00
+640,Great service but long wait times.,1,2025-01-27 16:00:00
+641,"Clean clinic, highly recommended.",5,2025-01-27 17:00:00
+642,Scheduling an appointment is a nightmare.,2,2025-01-27 18:00:00
+643,The doctor was very dismissive.,1,2025-01-27 19:00:00
+644,Excellent facility and friendly staff.,4,2025-01-27 20:00:00
+645,"Clean clinic, highly recommended.",2,2025-01-27 21:00:00
+646,Great service but long wait times.,5,2025-01-27 22:00:00
+647,Excellent facility and friendly staff.,3,2025-01-27 23:00:00
+648,Front desk staff was quite rude.,2,2025-01-28 00:00:00
+649,Front desk staff was quite rude.,1,2025-01-28 01:00:00
+650,Great service but long wait times.,3,2025-01-28 02:00:00
+651,The doctor was very dismissive.,1,2025-01-28 03:00:00
+652,The doctor was very dismissive.,4,2025-01-28 04:00:00
+653,"Clean clinic, highly recommended.",4,2025-01-28 05:00:00
+654,Excellent facility and friendly staff.,1,2025-01-28 06:00:00
+655,Waited 2 hours for a 5 minute checkup.,3,2025-01-28 07:00:00
+656,Very professional care.,5,2025-01-28 08:00:00
+657,Very professional care.,4,2025-01-28 09:00:00
+658,Excellent facility and friendly staff.,4,2025-01-28 10:00:00
+659,Front desk staff was quite rude.,4,2025-01-28 11:00:00
+660,Waited 2 hours for a 5 minute checkup.,5,2025-01-28 12:00:00
+661,Front desk staff was quite rude.,5,2025-01-28 13:00:00
+662,The doctor was very dismissive.,5,2025-01-28 14:00:00
+663,Great service but long wait times.,3,2025-01-28 15:00:00
+664,Very professional care.,1,2025-01-28 16:00:00
+665,Waited 2 hours for a 5 minute checkup.,3,2025-01-28 17:00:00
+666,Waited 2 hours for a 5 minute checkup.,5,2025-01-28 18:00:00
+667,"Clean clinic, highly recommended.",1,2025-01-28 19:00:00
+668,Scheduling an appointment is a nightmare.,4,2025-01-28 20:00:00
+669,The doctor was very dismissive.,5,2025-01-28 21:00:00
+670,Waited 2 hours for a 5 minute checkup.,4,2025-01-28 22:00:00
+671,Front desk staff was quite rude.,3,2025-01-28 23:00:00
+672,Front desk staff was quite rude.,3,2025-01-29 00:00:00
+673,The doctor was very dismissive.,1,2025-01-29 01:00:00
+674,Front desk staff was quite rude.,3,2025-01-29 02:00:00
+675,"Clean clinic, highly recommended.",1,2025-01-29 03:00:00
+676,Great service but long wait times.,5,2025-01-29 04:00:00
+677,Excellent facility and friendly staff.,5,2025-01-29 05:00:00
+678,The doctor was very dismissive.,4,2025-01-29 06:00:00
+679,"Clean clinic, highly recommended.",4,2025-01-29 07:00:00
+680,"Clean clinic, highly recommended.",4,2025-01-29 08:00:00
+681,"Clean clinic, highly recommended.",2,2025-01-29 09:00:00
+682,Very professional care.,1,2025-01-29 10:00:00
+683,Front desk staff was quite rude.,3,2025-01-29 11:00:00
+684,Very professional care.,5,2025-01-29 12:00:00
+685,Very professional care.,5,2025-01-29 13:00:00
+686,Excellent facility and friendly staff.,4,2025-01-29 14:00:00
+687,Very professional care.,3,2025-01-29 15:00:00
+688,The doctor was very dismissive.,4,2025-01-29 16:00:00
+689,Waited 2 hours for a 5 minute checkup.,4,2025-01-29 17:00:00
+690,"Clean clinic, highly recommended.",4,2025-01-29 18:00:00
+691,Excellent facility and friendly staff.,5,2025-01-29 19:00:00
+692,Very professional care.,5,2025-01-29 20:00:00
+693,Great service but long wait times.,4,2025-01-29 21:00:00
+694,Scheduling an appointment is a nightmare.,4,2025-01-29 22:00:00
+695,The doctor was very dismissive.,5,2025-01-29 23:00:00
+696,Excellent facility and friendly staff.,5,2025-01-30 00:00:00
+697,Scheduling an appointment is a nightmare.,4,2025-01-30 01:00:00
+698,Scheduling an appointment is a nightmare.,4,2025-01-30 02:00:00
+699,Very professional care.,5,2025-01-30 03:00:00
+700,Excellent facility and friendly staff.,4,2025-01-30 04:00:00
+701,Front desk staff was quite rude.,4,2025-01-30 05:00:00
+702,Waited 2 hours for a 5 minute checkup.,3,2025-01-30 06:00:00
+703,Waited 2 hours for a 5 minute checkup.,5,2025-01-30 07:00:00
+704,Excellent facility and friendly staff.,4,2025-01-30 08:00:00
+705,Excellent facility and friendly staff.,4,2025-01-30 09:00:00
+706,"Clean clinic, highly recommended.",5,2025-01-30 10:00:00
+707,Great service but long wait times.,5,2025-01-30 11:00:00
+708,Waited 2 hours for a 5 minute checkup.,5,2025-01-30 12:00:00
+709,"Clean clinic, highly recommended.",1,2025-01-30 13:00:00
+710,Front desk staff was quite rude.,4,2025-01-30 14:00:00
+711,Scheduling an appointment is a nightmare.,3,2025-01-30 15:00:00
+712,Scheduling an appointment is a nightmare.,3,2025-01-30 16:00:00
+713,Scheduling an appointment is a nightmare.,5,2025-01-30 17:00:00
+714,Excellent facility and friendly staff.,5,2025-01-30 18:00:00
+715,Front desk staff was quite rude.,4,2025-01-30 19:00:00
+716,The doctor was very dismissive.,2,2025-01-30 20:00:00
+717,"Clean clinic, highly recommended.",1,2025-01-30 21:00:00
+718,The doctor was very dismissive.,4,2025-01-30 22:00:00
+719,Very professional care.,1,2025-01-30 23:00:00
+720,Great service but long wait times.,4,2025-01-31 00:00:00
+721,Great service but long wait times.,4,2025-01-31 01:00:00
+722,"Clean clinic, highly recommended.",5,2025-01-31 02:00:00
+723,Scheduling an appointment is a nightmare.,2,2025-01-31 03:00:00
+724,Very professional care.,3,2025-01-31 04:00:00
+725,Waited 2 hours for a 5 minute checkup.,5,2025-01-31 05:00:00
+726,Front desk staff was quite rude.,4,2025-01-31 06:00:00
+727,Great service but long wait times.,1,2025-01-31 07:00:00
+728,The doctor was very dismissive.,2,2025-01-31 08:00:00
+729,The doctor was very dismissive.,5,2025-01-31 09:00:00
+730,Waited 2 hours for a 5 minute checkup.,5,2025-01-31 10:00:00
+731,Excellent facility and friendly staff.,5,2025-01-31 11:00:00
+732,Scheduling an appointment is a nightmare.,2,2025-01-31 12:00:00
+733,Excellent facility and friendly staff.,5,2025-01-31 13:00:00
+734,"Clean clinic, highly recommended.",4,2025-01-31 14:00:00
+735,Great service but long wait times.,3,2025-01-31 15:00:00
+736,Waited 2 hours for a 5 minute checkup.,5,2025-01-31 16:00:00
+737,Waited 2 hours for a 5 minute checkup.,4,2025-01-31 17:00:00
+738,Waited 2 hours for a 5 minute checkup.,5,2025-01-31 18:00:00
+739,Excellent facility and friendly staff.,5,2025-01-31 19:00:00
+740,Front desk staff was quite rude.,3,2025-01-31 20:00:00
+741,Excellent facility and friendly staff.,4,2025-01-31 21:00:00
+742,"Clean clinic, highly recommended.",4,2025-01-31 22:00:00
+743,The doctor was very dismissive.,5,2025-01-31 23:00:00
+744,The doctor was very dismissive.,4,2025-02-01 00:00:00
+745,Very professional care.,5,2025-02-01 01:00:00
+746,"Clean clinic, highly recommended.",1,2025-02-01 02:00:00
+747,Front desk staff was quite rude.,4,2025-02-01 03:00:00
+748,Waited 2 hours for a 5 minute checkup.,3,2025-02-01 04:00:00
+749,The doctor was very dismissive.,3,2025-02-01 05:00:00
+750,"Clean clinic, highly recommended.",5,2025-02-01 06:00:00
+751,The doctor was very dismissive.,1,2025-02-01 07:00:00
+752,Front desk staff was quite rude.,3,2025-02-01 08:00:00
+753,Very professional care.,3,2025-02-01 09:00:00
+754,"Clean clinic, highly recommended.",4,2025-02-01 10:00:00
+755,The doctor was very dismissive.,3,2025-02-01 11:00:00
+756,Waited 2 hours for a 5 minute checkup.,5,2025-02-01 12:00:00
+757,Front desk staff was quite rude.,4,2025-02-01 13:00:00
+758,Excellent facility and friendly staff.,3,2025-02-01 14:00:00
+759,Front desk staff was quite rude.,4,2025-02-01 15:00:00
+760,Excellent facility and friendly staff.,3,2025-02-01 16:00:00
+761,Front desk staff was quite rude.,4,2025-02-01 17:00:00
+762,Very professional care.,3,2025-02-01 18:00:00
+763,Waited 2 hours for a 5 minute checkup.,2,2025-02-01 19:00:00
+764,The doctor was very dismissive.,2,2025-02-01 20:00:00
+765,Waited 2 hours for a 5 minute checkup.,3,2025-02-01 21:00:00
+766,"Clean clinic, highly recommended.",5,2025-02-01 22:00:00
+767,Excellent facility and friendly staff.,1,2025-02-01 23:00:00
+768,Great service but long wait times.,3,2025-02-02 00:00:00
+769,Very professional care.,2,2025-02-02 01:00:00
+770,The doctor was very dismissive.,5,2025-02-02 02:00:00
+771,Great service but long wait times.,5,2025-02-02 03:00:00
+772,Great service but long wait times.,3,2025-02-02 04:00:00
+773,Front desk staff was quite rude.,3,2025-02-02 05:00:00
+774,Very professional care.,5,2025-02-02 06:00:00
+775,Scheduling an appointment is a nightmare.,2,2025-02-02 07:00:00
+776,Great service but long wait times.,5,2025-02-02 08:00:00
+777,Great service but long wait times.,3,2025-02-02 09:00:00
+778,Waited 2 hours for a 5 minute checkup.,1,2025-02-02 10:00:00
+779,Scheduling an appointment is a nightmare.,4,2025-02-02 11:00:00
+780,Scheduling an appointment is a nightmare.,4,2025-02-02 12:00:00
+781,Scheduling an appointment is a nightmare.,5,2025-02-02 13:00:00
+782,Very professional care.,5,2025-02-02 14:00:00
+783,"Clean clinic, highly recommended.",4,2025-02-02 15:00:00
+784,Scheduling an appointment is a nightmare.,4,2025-02-02 16:00:00
+785,Waited 2 hours for a 5 minute checkup.,5,2025-02-02 17:00:00
+786,"Clean clinic, highly recommended.",4,2025-02-02 18:00:00
+787,The doctor was very dismissive.,3,2025-02-02 19:00:00
+788,"Clean clinic, highly recommended.",3,2025-02-02 20:00:00
+789,The doctor was very dismissive.,3,2025-02-02 21:00:00
+790,Scheduling an appointment is a nightmare.,5,2025-02-02 22:00:00
+791,Scheduling an appointment is a nightmare.,3,2025-02-02 23:00:00
+792,The doctor was very dismissive.,3,2025-02-03 00:00:00
+793,Excellent facility and friendly staff.,5,2025-02-03 01:00:00
+794,Waited 2 hours for a 5 minute checkup.,1,2025-02-03 02:00:00
+795,"Clean clinic, highly recommended.",4,2025-02-03 03:00:00
+796,Waited 2 hours for a 5 minute checkup.,5,2025-02-03 04:00:00
+797,Waited 2 hours for a 5 minute checkup.,4,2025-02-03 05:00:00
+798,Great service but long wait times.,3,2025-02-03 06:00:00
+799,Scheduling an appointment is a nightmare.,4,2025-02-03 07:00:00
+800,"Clean clinic, highly recommended.",5,2025-02-03 08:00:00
+801,Waited 2 hours for a 5 minute checkup.,4,2025-02-03 09:00:00
+802,"Clean clinic, highly recommended.",1,2025-02-03 10:00:00
+803,Waited 2 hours for a 5 minute checkup.,1,2025-02-03 11:00:00
+804,Scheduling an appointment is a nightmare.,5,2025-02-03 12:00:00
+805,Waited 2 hours for a 5 minute checkup.,3,2025-02-03 13:00:00
+806,The doctor was very dismissive.,5,2025-02-03 14:00:00
+807,Scheduling an appointment is a nightmare.,4,2025-02-03 15:00:00
+808,"Clean clinic, highly recommended.",4,2025-02-03 16:00:00
+809,Very professional care.,5,2025-02-03 17:00:00
+810,Excellent facility and friendly staff.,1,2025-02-03 18:00:00
+811,Waited 2 hours for a 5 minute checkup.,2,2025-02-03 19:00:00
+812,The doctor was very dismissive.,4,2025-02-03 20:00:00
+813,Scheduling an appointment is a nightmare.,1,2025-02-03 21:00:00
+814,Great service but long wait times.,4,2025-02-03 22:00:00
+815,Very professional care.,5,2025-02-03 23:00:00
+816,Very professional care.,5,2025-02-04 00:00:00
+817,Scheduling an appointment is a nightmare.,4,2025-02-04 01:00:00
+818,Front desk staff was quite rude.,5,2025-02-04 02:00:00
+819,Very professional care.,2,2025-02-04 03:00:00
+820,"Clean clinic, highly recommended.",4,2025-02-04 04:00:00
+821,"Clean clinic, highly recommended.",4,2025-02-04 05:00:00
+822,Great service but long wait times.,3,2025-02-04 06:00:00
+823,The doctor was very dismissive.,1,2025-02-04 07:00:00
+824,"Clean clinic, highly recommended.",5,2025-02-04 08:00:00
+825,The doctor was very dismissive.,5,2025-02-04 09:00:00
+826,The doctor was very dismissive.,4,2025-02-04 10:00:00
+827,Scheduling an appointment is a nightmare.,2,2025-02-04 11:00:00
+828,The doctor was very dismissive.,3,2025-02-04 12:00:00
+829,Waited 2 hours for a 5 minute checkup.,5,2025-02-04 13:00:00
+830,Front desk staff was quite rude.,4,2025-02-04 14:00:00
+831,"Clean clinic, highly recommended.",4,2025-02-04 15:00:00
+832,"Clean clinic, highly recommended.",5,2025-02-04 16:00:00
+833,Excellent facility and friendly staff.,4,2025-02-04 17:00:00
+834,Very professional care.,4,2025-02-04 18:00:00
+835,The doctor was very dismissive.,3,2025-02-04 19:00:00
+836,Excellent facility and friendly staff.,3,2025-02-04 20:00:00
+837,Scheduling an appointment is a nightmare.,4,2025-02-04 21:00:00
+838,Excellent facility and friendly staff.,3,2025-02-04 22:00:00
+839,Very professional care.,4,2025-02-04 23:00:00
+840,The doctor was very dismissive.,3,2025-02-05 00:00:00
+841,Front desk staff was quite rude.,2,2025-02-05 01:00:00
+842,Very professional care.,4,2025-02-05 02:00:00
+843,"Clean clinic, highly recommended.",3,2025-02-05 03:00:00
+844,Front desk staff was quite rude.,5,2025-02-05 04:00:00
+845,Scheduling an appointment is a nightmare.,3,2025-02-05 05:00:00
+846,The doctor was very dismissive.,4,2025-02-05 06:00:00
+847,Front desk staff was quite rude.,3,2025-02-05 07:00:00
+848,Front desk staff was quite rude.,3,2025-02-05 08:00:00
+849,Front desk staff was quite rude.,3,2025-02-05 09:00:00
+850,Front desk staff was quite rude.,5,2025-02-05 10:00:00
+851,Front desk staff was quite rude.,3,2025-02-05 11:00:00
+852,Front desk staff was quite rude.,5,2025-02-05 12:00:00
+853,Scheduling an appointment is a nightmare.,2,2025-02-05 13:00:00
+854,Great service but long wait times.,1,2025-02-05 14:00:00
+855,Front desk staff was quite rude.,5,2025-02-05 15:00:00
+856,The doctor was very dismissive.,4,2025-02-05 16:00:00
+857,Great service but long wait times.,4,2025-02-05 17:00:00
+858,Front desk staff was quite rude.,3,2025-02-05 18:00:00
+859,Excellent facility and friendly staff.,1,2025-02-05 19:00:00
+860,The doctor was very dismissive.,4,2025-02-05 20:00:00
+861,Great service but long wait times.,5,2025-02-05 21:00:00
+862,Waited 2 hours for a 5 minute checkup.,2,2025-02-05 22:00:00
+863,"Clean clinic, highly recommended.",5,2025-02-05 23:00:00
+864,Excellent facility and friendly staff.,3,2025-02-06 00:00:00
+865,The doctor was very dismissive.,4,2025-02-06 01:00:00
+866,The doctor was very dismissive.,1,2025-02-06 02:00:00
+867,"Clean clinic, highly recommended.",4,2025-02-06 03:00:00
+868,"Clean clinic, highly recommended.",2,2025-02-06 04:00:00
+869,Very professional care.,1,2025-02-06 05:00:00
+870,Front desk staff was quite rude.,5,2025-02-06 06:00:00
+871,Great service but long wait times.,5,2025-02-06 07:00:00
+872,Great service but long wait times.,5,2025-02-06 08:00:00
+873,Great service but long wait times.,1,2025-02-06 09:00:00
+874,Very professional care.,5,2025-02-06 10:00:00
+875,Front desk staff was quite rude.,4,2025-02-06 11:00:00
+876,Scheduling an appointment is a nightmare.,5,2025-02-06 12:00:00
+877,Excellent facility and friendly staff.,1,2025-02-06 13:00:00
+878,Front desk staff was quite rude.,3,2025-02-06 14:00:00
+879,The doctor was very dismissive.,5,2025-02-06 15:00:00
+880,Excellent facility and friendly staff.,4,2025-02-06 16:00:00
+881,"Clean clinic, highly recommended.",5,2025-02-06 17:00:00
+882,Front desk staff was quite rude.,3,2025-02-06 18:00:00
+883,Waited 2 hours for a 5 minute checkup.,4,2025-02-06 19:00:00
+884,Excellent facility and friendly staff.,5,2025-02-06 20:00:00
+885,Excellent facility and friendly staff.,4,2025-02-06 21:00:00
+886,Great service but long wait times.,5,2025-02-06 22:00:00
+887,"Clean clinic, highly recommended.",3,2025-02-06 23:00:00
+888,Excellent facility and friendly staff.,2,2025-02-07 00:00:00
+889,The doctor was very dismissive.,3,2025-02-07 01:00:00
+890,Great service but long wait times.,4,2025-02-07 02:00:00
+891,Very professional care.,5,2025-02-07 03:00:00
+892,Excellent facility and friendly staff.,3,2025-02-07 04:00:00
+893,"Clean clinic, highly recommended.",4,2025-02-07 05:00:00
+894,Front desk staff was quite rude.,5,2025-02-07 06:00:00
+895,Waited 2 hours for a 5 minute checkup.,3,2025-02-07 07:00:00
+896,Front desk staff was quite rude.,5,2025-02-07 08:00:00
+897,Front desk staff was quite rude.,5,2025-02-07 09:00:00
+898,The doctor was very dismissive.,1,2025-02-07 10:00:00
+899,Waited 2 hours for a 5 minute checkup.,1,2025-02-07 11:00:00
+900,"Clean clinic, highly recommended.",1,2025-02-07 12:00:00
+901,"Clean clinic, highly recommended.",5,2025-02-07 13:00:00
+902,"Clean clinic, highly recommended.",2,2025-02-07 14:00:00
+903,Waited 2 hours for a 5 minute checkup.,5,2025-02-07 15:00:00
+904,Scheduling an appointment is a nightmare.,4,2025-02-07 16:00:00
+905,The doctor was very dismissive.,5,2025-02-07 17:00:00
+906,"Clean clinic, highly recommended.",5,2025-02-07 18:00:00
+907,Scheduling an appointment is a nightmare.,5,2025-02-07 19:00:00
+908,Great service but long wait times.,3,2025-02-07 20:00:00
+909,Scheduling an appointment is a nightmare.,3,2025-02-07 21:00:00
+910,Great service but long wait times.,1,2025-02-07 22:00:00
+911,Waited 2 hours for a 5 minute checkup.,4,2025-02-07 23:00:00
+912,Very professional care.,4,2025-02-08 00:00:00
+913,Very professional care.,5,2025-02-08 01:00:00
+914,Scheduling an appointment is a nightmare.,5,2025-02-08 02:00:00
+915,Waited 2 hours for a 5 minute checkup.,2,2025-02-08 03:00:00
+916,"Clean clinic, highly recommended.",5,2025-02-08 04:00:00
+917,Scheduling an appointment is a nightmare.,2,2025-02-08 05:00:00
+918,Scheduling an appointment is a nightmare.,1,2025-02-08 06:00:00
+919,"Clean clinic, highly recommended.",5,2025-02-08 07:00:00
+920,Great service but long wait times.,5,2025-02-08 08:00:00
+921,"Clean clinic, highly recommended.",1,2025-02-08 09:00:00
+922,The doctor was very dismissive.,5,2025-02-08 10:00:00
+923,Very professional care.,5,2025-02-08 11:00:00
+924,Front desk staff was quite rude.,2,2025-02-08 12:00:00
+925,Front desk staff was quite rude.,3,2025-02-08 13:00:00
+926,Very professional care.,5,2025-02-08 14:00:00
+927,Scheduling an appointment is a nightmare.,5,2025-02-08 15:00:00
+928,The doctor was very dismissive.,3,2025-02-08 16:00:00
+929,"Clean clinic, highly recommended.",2,2025-02-08 17:00:00
+930,Very professional care.,4,2025-02-08 18:00:00
+931,Waited 2 hours for a 5 minute checkup.,5,2025-02-08 19:00:00
+932,"Clean clinic, highly recommended.",4,2025-02-08 20:00:00
+933,Excellent facility and friendly staff.,2,2025-02-08 21:00:00
+934,The doctor was very dismissive.,5,2025-02-08 22:00:00
+935,Very professional care.,4,2025-02-08 23:00:00
+936,Excellent facility and friendly staff.,5,2025-02-09 00:00:00
+937,The doctor was very dismissive.,5,2025-02-09 01:00:00
+938,Front desk staff was quite rude.,5,2025-02-09 02:00:00
+939,Waited 2 hours for a 5 minute checkup.,5,2025-02-09 03:00:00
+940,Excellent facility and friendly staff.,5,2025-02-09 04:00:00
+941,Excellent facility and friendly staff.,4,2025-02-09 05:00:00
+942,The doctor was very dismissive.,5,2025-02-09 06:00:00
+943,"Clean clinic, highly recommended.",4,2025-02-09 07:00:00
+944,Great service but long wait times.,4,2025-02-09 08:00:00
+945,"Clean clinic, highly recommended.",1,2025-02-09 09:00:00
+946,Great service but long wait times.,3,2025-02-09 10:00:00
+947,The doctor was very dismissive.,2,2025-02-09 11:00:00
+948,Scheduling an appointment is a nightmare.,3,2025-02-09 12:00:00
+949,"Clean clinic, highly recommended.",1,2025-02-09 13:00:00
+950,Excellent facility and friendly staff.,5,2025-02-09 14:00:00
+951,"Clean clinic, highly recommended.",4,2025-02-09 15:00:00
+952,Front desk staff was quite rude.,2,2025-02-09 16:00:00
+953,The doctor was very dismissive.,4,2025-02-09 17:00:00
+954,Front desk staff was quite rude.,2,2025-02-09 18:00:00
+955,Scheduling an appointment is a nightmare.,5,2025-02-09 19:00:00
+956,Scheduling an appointment is a nightmare.,3,2025-02-09 20:00:00
+957,"Clean clinic, highly recommended.",3,2025-02-09 21:00:00
+958,"Clean clinic, highly recommended.",5,2025-02-09 22:00:00
+959,Front desk staff was quite rude.,4,2025-02-09 23:00:00
+960,Waited 2 hours for a 5 minute checkup.,5,2025-02-10 00:00:00
+961,"Clean clinic, highly recommended.",4,2025-02-10 01:00:00
+962,The doctor was very dismissive.,3,2025-02-10 02:00:00
+963,Great service but long wait times.,4,2025-02-10 03:00:00
+964,Waited 2 hours for a 5 minute checkup.,1,2025-02-10 04:00:00
+965,Great service but long wait times.,2,2025-02-10 05:00:00
+966,Front desk staff was quite rude.,3,2025-02-10 06:00:00
+967,Excellent facility and friendly staff.,5,2025-02-10 07:00:00
+968,Very professional care.,5,2025-02-10 08:00:00
+969,The doctor was very dismissive.,2,2025-02-10 09:00:00
+970,Waited 2 hours for a 5 minute checkup.,3,2025-02-10 10:00:00
+971,Front desk staff was quite rude.,5,2025-02-10 11:00:00
+972,Scheduling an appointment is a nightmare.,1,2025-02-10 12:00:00
+973,Waited 2 hours for a 5 minute checkup.,4,2025-02-10 13:00:00
+974,Excellent facility and friendly staff.,4,2025-02-10 14:00:00
+975,Scheduling an appointment is a nightmare.,5,2025-02-10 15:00:00
+976,Waited 2 hours for a 5 minute checkup.,3,2025-02-10 16:00:00
+977,Front desk staff was quite rude.,5,2025-02-10 17:00:00
+978,Scheduling an appointment is a nightmare.,4,2025-02-10 18:00:00
+979,"Clean clinic, highly recommended.",3,2025-02-10 19:00:00
+980,Scheduling an appointment is a nightmare.,3,2025-02-10 20:00:00
+981,Waited 2 hours for a 5 minute checkup.,3,2025-02-10 21:00:00
+982,Scheduling an appointment is a nightmare.,2,2025-02-10 22:00:00
+983,The doctor was very dismissive.,5,2025-02-10 23:00:00
+984,"Clean clinic, highly recommended.",2,2025-02-11 00:00:00
+985,"Clean clinic, highly recommended.",5,2025-02-11 01:00:00
+986,Excellent facility and friendly staff.,4,2025-02-11 02:00:00
+987,"Clean clinic, highly recommended.",3,2025-02-11 03:00:00
+988,Great service but long wait times.,2,2025-02-11 04:00:00
+989,The doctor was very dismissive.,4,2025-02-11 05:00:00
+990,Excellent facility and friendly staff.,4,2025-02-11 06:00:00
+991,Great service but long wait times.,5,2025-02-11 07:00:00
+992,Scheduling an appointment is a nightmare.,4,2025-02-11 08:00:00
+993,Very professional care.,4,2025-02-11 09:00:00
+994,Great service but long wait times.,1,2025-02-11 10:00:00
+995,Excellent facility and friendly staff.,5,2025-02-11 11:00:00
+996,"Clean clinic, highly recommended.",5,2025-02-11 12:00:00
+997,The doctor was very dismissive.,3,2025-02-11 13:00:00
+998,Very professional care.,1,2025-02-11 14:00:00
+999,Excellent facility and friendly staff.,5,2025-02-11 15:00:00
+1000,Great service but long wait times.,5,2025-02-11 16:00:00
+1001,Very professional care.,4,2025-02-11 17:00:00
+1002,Great service but long wait times.,4,2025-02-11 18:00:00
+1003,Front desk staff was quite rude.,5,2025-02-11 19:00:00
+1004,Excellent facility and friendly staff.,2,2025-02-11 20:00:00
+1005,Very professional care.,4,2025-02-11 21:00:00
+1006,Waited 2 hours for a 5 minute checkup.,1,2025-02-11 22:00:00
+1007,Waited 2 hours for a 5 minute checkup.,2,2025-02-11 23:00:00
+1008,Excellent facility and friendly staff.,5,2025-02-12 00:00:00
+1009,Waited 2 hours for a 5 minute checkup.,4,2025-02-12 01:00:00
+1010,Excellent facility and friendly staff.,5,2025-02-12 02:00:00
+1011,"Clean clinic, highly recommended.",4,2025-02-12 03:00:00
+1012,Very professional care.,5,2025-02-12 04:00:00
+1013,Excellent facility and friendly staff.,4,2025-02-12 05:00:00
+1014,Scheduling an appointment is a nightmare.,1,2025-02-12 06:00:00
+1015,The doctor was very dismissive.,5,2025-02-12 07:00:00
+1016,The doctor was very dismissive.,2,2025-02-12 08:00:00
+1017,Scheduling an appointment is a nightmare.,4,2025-02-12 09:00:00
+1018,Great service but long wait times.,4,2025-02-12 10:00:00
+1019,Great service but long wait times.,1,2025-02-12 11:00:00
+1020,Great service but long wait times.,1,2025-02-12 12:00:00
+1021,Front desk staff was quite rude.,5,2025-02-12 13:00:00
+1022,Very professional care.,3,2025-02-12 14:00:00
+1023,Great service but long wait times.,4,2025-02-12 15:00:00
+1024,"Clean clinic, highly recommended.",4,2025-02-12 16:00:00
+1025,Scheduling an appointment is a nightmare.,3,2025-02-12 17:00:00
+1026,The doctor was very dismissive.,5,2025-02-12 18:00:00
+1027,Scheduling an appointment is a nightmare.,5,2025-02-12 19:00:00
+1028,The doctor was very dismissive.,1,2025-02-12 20:00:00
+1029,Great service but long wait times.,4,2025-02-12 21:00:00
+1030,"Clean clinic, highly recommended.",3,2025-02-12 22:00:00
+1031,Excellent facility and friendly staff.,4,2025-02-12 23:00:00
+1032,Excellent facility and friendly staff.,4,2025-02-13 00:00:00
+1033,Waited 2 hours for a 5 minute checkup.,3,2025-02-13 01:00:00
+1034,Great service but long wait times.,1,2025-02-13 02:00:00
+1035,Great service but long wait times.,4,2025-02-13 03:00:00
+1036,Scheduling an appointment is a nightmare.,2,2025-02-13 04:00:00
+1037,"Clean clinic, highly recommended.",2,2025-02-13 05:00:00
+1038,"Clean clinic, highly recommended.",5,2025-02-13 06:00:00
+1039,Front desk staff was quite rude.,3,2025-02-13 07:00:00
+1040,Scheduling an appointment is a nightmare.,4,2025-02-13 08:00:00
+1041,"Clean clinic, highly recommended.",3,2025-02-13 09:00:00
+1042,Very professional care.,5,2025-02-13 10:00:00
+1043,Very professional care.,3,2025-02-13 11:00:00
+1044,"Clean clinic, highly recommended.",3,2025-02-13 12:00:00
+1045,Very professional care.,4,2025-02-13 13:00:00
+1046,Front desk staff was quite rude.,5,2025-02-13 14:00:00
+1047,Excellent facility and friendly staff.,5,2025-02-13 15:00:00
+1048,"Clean clinic, highly recommended.",3,2025-02-13 16:00:00
+1049,Very professional care.,5,2025-02-13 17:00:00
+1050,Great service but long wait times.,5,2025-02-13 18:00:00
+1051,Excellent facility and friendly staff.,5,2025-02-13 19:00:00
+1052,Great service but long wait times.,5,2025-02-13 20:00:00
+1053,Great service but long wait times.,4,2025-02-13 21:00:00
+1054,Very professional care.,5,2025-02-13 22:00:00
+1055,Very professional care.,4,2025-02-13 23:00:00
+1056,Scheduling an appointment is a nightmare.,4,2025-02-14 00:00:00
+1057,Waited 2 hours for a 5 minute checkup.,2,2025-02-14 01:00:00
+1058,"Clean clinic, highly recommended.",1,2025-02-14 02:00:00
+1059,"Clean clinic, highly recommended.",1,2025-02-14 03:00:00
+1060,"Clean clinic, highly recommended.",5,2025-02-14 04:00:00
+1061,"Clean clinic, highly recommended.",2,2025-02-14 05:00:00
+1062,Very professional care.,1,2025-02-14 06:00:00
+1063,Excellent facility and friendly staff.,3,2025-02-14 07:00:00
+1064,The doctor was very dismissive.,4,2025-02-14 08:00:00
+1065,Great service but long wait times.,5,2025-02-14 09:00:00
+1066,Waited 2 hours for a 5 minute checkup.,4,2025-02-14 10:00:00
+1067,Front desk staff was quite rude.,3,2025-02-14 11:00:00
+1068,Waited 2 hours for a 5 minute checkup.,5,2025-02-14 12:00:00
+1069,The doctor was very dismissive.,1,2025-02-14 13:00:00
+1070,Front desk staff was quite rude.,5,2025-02-14 14:00:00
+1071,Front desk staff was quite rude.,1,2025-02-14 15:00:00
+1072,The doctor was very dismissive.,5,2025-02-14 16:00:00
+1073,Front desk staff was quite rude.,1,2025-02-14 17:00:00
+1074,The doctor was very dismissive.,5,2025-02-14 18:00:00
+1075,Very professional care.,2,2025-02-14 19:00:00
+1076,Excellent facility and friendly staff.,1,2025-02-14 20:00:00
+1077,The doctor was very dismissive.,5,2025-02-14 21:00:00
+1078,Front desk staff was quite rude.,1,2025-02-14 22:00:00
+1079,Front desk staff was quite rude.,5,2025-02-14 23:00:00
+1080,Excellent facility and friendly staff.,5,2025-02-15 00:00:00
+1081,Very professional care.,4,2025-02-15 01:00:00
+1082,Scheduling an appointment is a nightmare.,3,2025-02-15 02:00:00
+1083,Front desk staff was quite rude.,5,2025-02-15 03:00:00
+1084,Front desk staff was quite rude.,5,2025-02-15 04:00:00
+1085,Scheduling an appointment is a nightmare.,4,2025-02-15 05:00:00
+1086,Waited 2 hours for a 5 minute checkup.,3,2025-02-15 06:00:00
+1087,Scheduling an appointment is a nightmare.,3,2025-02-15 07:00:00
+1088,Excellent facility and friendly staff.,3,2025-02-15 08:00:00
+1089,Excellent facility and friendly staff.,4,2025-02-15 09:00:00
+1090,Great service but long wait times.,5,2025-02-15 10:00:00
+1091,Front desk staff was quite rude.,5,2025-02-15 11:00:00
+1092,The doctor was very dismissive.,5,2025-02-15 12:00:00
+1093,"Clean clinic, highly recommended.",4,2025-02-15 13:00:00
+1094,"Clean clinic, highly recommended.",3,2025-02-15 14:00:00
+1095,The doctor was very dismissive.,5,2025-02-15 15:00:00
+1096,"Clean clinic, highly recommended.",5,2025-02-15 16:00:00
+1097,"Clean clinic, highly recommended.",4,2025-02-15 17:00:00
+1098,Very professional care.,1,2025-02-15 18:00:00
+1099,"Clean clinic, highly recommended.",4,2025-02-15 19:00:00
+1100,Waited 2 hours for a 5 minute checkup.,3,2025-02-15 20:00:00
+1101,Front desk staff was quite rude.,2,2025-02-15 21:00:00
+1102,Front desk staff was quite rude.,4,2025-02-15 22:00:00
+1103,Front desk staff was quite rude.,3,2025-02-15 23:00:00
+1104,Excellent facility and friendly staff.,5,2025-02-16 00:00:00
+1105,Excellent facility and friendly staff.,3,2025-02-16 01:00:00
+1106,Excellent facility and friendly staff.,4,2025-02-16 02:00:00
+1107,The doctor was very dismissive.,5,2025-02-16 03:00:00
+1108,Scheduling an appointment is a nightmare.,4,2025-02-16 04:00:00
+1109,Waited 2 hours for a 5 minute checkup.,5,2025-02-16 05:00:00
+1110,Waited 2 hours for a 5 minute checkup.,5,2025-02-16 06:00:00
+1111,"Clean clinic, highly recommended.",5,2025-02-16 07:00:00
+1112,Front desk staff was quite rude.,3,2025-02-16 08:00:00
+1113,Great service but long wait times.,2,2025-02-16 09:00:00
+1114,Excellent facility and friendly staff.,4,2025-02-16 10:00:00
+1115,Very professional care.,5,2025-02-16 11:00:00
+1116,Waited 2 hours for a 5 minute checkup.,4,2025-02-16 12:00:00
+1117,Waited 2 hours for a 5 minute checkup.,3,2025-02-16 13:00:00
+1118,Great service but long wait times.,1,2025-02-16 14:00:00
+1119,"Clean clinic, highly recommended.",3,2025-02-16 15:00:00
+1120,Waited 2 hours for a 5 minute checkup.,5,2025-02-16 16:00:00
+1121,Front desk staff was quite rude.,2,2025-02-16 17:00:00
+1122,Waited 2 hours for a 5 minute checkup.,3,2025-02-16 18:00:00
+1123,Scheduling an appointment is a nightmare.,1,2025-02-16 19:00:00
+1124,Great service but long wait times.,5,2025-02-16 20:00:00
+1125,Very professional care.,5,2025-02-16 21:00:00
+1126,Very professional care.,4,2025-02-16 22:00:00
+1127,"Clean clinic, highly recommended.",1,2025-02-16 23:00:00
+1128,"Clean clinic, highly recommended.",3,2025-02-17 00:00:00
+1129,Excellent facility and friendly staff.,4,2025-02-17 01:00:00
+1130,Scheduling an appointment is a nightmare.,4,2025-02-17 02:00:00
+1131,"Clean clinic, highly recommended.",4,2025-02-17 03:00:00
+1132,Front desk staff was quite rude.,5,2025-02-17 04:00:00
+1133,Scheduling an appointment is a nightmare.,5,2025-02-17 05:00:00
+1134,Excellent facility and friendly staff.,2,2025-02-17 06:00:00
+1135,Front desk staff was quite rude.,2,2025-02-17 07:00:00
+1136,Very professional care.,3,2025-02-17 08:00:00
+1137,Great service but long wait times.,4,2025-02-17 09:00:00
+1138,Waited 2 hours for a 5 minute checkup.,4,2025-02-17 10:00:00
+1139,Waited 2 hours for a 5 minute checkup.,5,2025-02-17 11:00:00
+1140,The doctor was very dismissive.,2,2025-02-17 12:00:00
+1141,The doctor was very dismissive.,5,2025-02-17 13:00:00
+1142,The doctor was very dismissive.,4,2025-02-17 14:00:00
+1143,Waited 2 hours for a 5 minute checkup.,5,2025-02-17 15:00:00
+1144,Scheduling an appointment is a nightmare.,4,2025-02-17 16:00:00
+1145,Front desk staff was quite rude.,5,2025-02-17 17:00:00
+1146,The doctor was very dismissive.,2,2025-02-17 18:00:00
+1147,Great service but long wait times.,5,2025-02-17 19:00:00
+1148,"Clean clinic, highly recommended.",1,2025-02-17 20:00:00
+1149,Front desk staff was quite rude.,4,2025-02-17 21:00:00
+1150,Scheduling an appointment is a nightmare.,1,2025-02-17 22:00:00
+1151,Waited 2 hours for a 5 minute checkup.,2,2025-02-17 23:00:00
+1152,Great service but long wait times.,2,2025-02-18 00:00:00
+1153,Very professional care.,1,2025-02-18 01:00:00
+1154,Waited 2 hours for a 5 minute checkup.,3,2025-02-18 02:00:00
+1155,Scheduling an appointment is a nightmare.,5,2025-02-18 03:00:00
+1156,Scheduling an appointment is a nightmare.,3,2025-02-18 04:00:00
+1157,Scheduling an appointment is a nightmare.,5,2025-02-18 05:00:00
+1158,Excellent facility and friendly staff.,2,2025-02-18 06:00:00
+1159,"Clean clinic, highly recommended.",4,2025-02-18 07:00:00
+1160,Front desk staff was quite rude.,2,2025-02-18 08:00:00
+1161,The doctor was very dismissive.,2,2025-02-18 09:00:00
+1162,Excellent facility and friendly staff.,1,2025-02-18 10:00:00
+1163,"Clean clinic, highly recommended.",4,2025-02-18 11:00:00
+1164,Waited 2 hours for a 5 minute checkup.,1,2025-02-18 12:00:00
+1165,The doctor was very dismissive.,5,2025-02-18 13:00:00
+1166,Very professional care.,4,2025-02-18 14:00:00
+1167,Excellent facility and friendly staff.,5,2025-02-18 15:00:00
+1168,Excellent facility and friendly staff.,5,2025-02-18 16:00:00
+1169,Front desk staff was quite rude.,4,2025-02-18 17:00:00
+1170,Great service but long wait times.,5,2025-02-18 18:00:00
+1171,Front desk staff was quite rude.,2,2025-02-18 19:00:00
+1172,Very professional care.,5,2025-02-18 20:00:00
+1173,Very professional care.,3,2025-02-18 21:00:00
+1174,Excellent facility and friendly staff.,4,2025-02-18 22:00:00
+1175,Scheduling an appointment is a nightmare.,4,2025-02-18 23:00:00
+1176,Waited 2 hours for a 5 minute checkup.,5,2025-02-19 00:00:00
+1177,Very professional care.,5,2025-02-19 01:00:00
+1178,Front desk staff was quite rude.,1,2025-02-19 02:00:00
+1179,Excellent facility and friendly staff.,3,2025-02-19 03:00:00
+1180,Scheduling an appointment is a nightmare.,5,2025-02-19 04:00:00
+1181,"Clean clinic, highly recommended.",5,2025-02-19 05:00:00
+1182,"Clean clinic, highly recommended.",1,2025-02-19 06:00:00
+1183,Front desk staff was quite rude.,4,2025-02-19 07:00:00
+1184,Very professional care.,5,2025-02-19 08:00:00
+1185,Scheduling an appointment is a nightmare.,5,2025-02-19 09:00:00
+1186,Great service but long wait times.,4,2025-02-19 10:00:00
+1187,Front desk staff was quite rude.,5,2025-02-19 11:00:00
+1188,Great service but long wait times.,4,2025-02-19 12:00:00
+1189,"Clean clinic, highly recommended.",5,2025-02-19 13:00:00
+1190,Waited 2 hours for a 5 minute checkup.,4,2025-02-19 14:00:00
+1191,Excellent facility and friendly staff.,4,2025-02-19 15:00:00
+1192,Front desk staff was quite rude.,5,2025-02-19 16:00:00
+1193,Very professional care.,1,2025-02-19 17:00:00
+1194,Very professional care.,5,2025-02-19 18:00:00
+1195,"Clean clinic, highly recommended.",4,2025-02-19 19:00:00
+1196,"Clean clinic, highly recommended.",5,2025-02-19 20:00:00
+1197,Front desk staff was quite rude.,3,2025-02-19 21:00:00
+1198,Front desk staff was quite rude.,4,2025-02-19 22:00:00
+1199,Scheduling an appointment is a nightmare.,5,2025-02-19 23:00:00
+1200,Great service but long wait times.,5,2025-02-20 00:00:00
+1201,Waited 2 hours for a 5 minute checkup.,3,2025-02-20 01:00:00
+1202,Scheduling an appointment is a nightmare.,3,2025-02-20 02:00:00
+1203,"Clean clinic, highly recommended.",4,2025-02-20 03:00:00
+1204,The doctor was very dismissive.,4,2025-02-20 04:00:00
+1205,Excellent facility and friendly staff.,5,2025-02-20 05:00:00
+1206,"Clean clinic, highly recommended.",3,2025-02-20 06:00:00
+1207,Front desk staff was quite rude.,5,2025-02-20 07:00:00
+1208,Scheduling an appointment is a nightmare.,4,2025-02-20 08:00:00
+1209,The doctor was very dismissive.,1,2025-02-20 09:00:00
+1210,The doctor was very dismissive.,1,2025-02-20 10:00:00
+1211,"Clean clinic, highly recommended.",4,2025-02-20 11:00:00
+1212,Waited 2 hours for a 5 minute checkup.,4,2025-02-20 12:00:00
+1213,Great service but long wait times.,4,2025-02-20 13:00:00
+1214,The doctor was very dismissive.,5,2025-02-20 14:00:00
+1215,Very professional care.,3,2025-02-20 15:00:00
+1216,Front desk staff was quite rude.,5,2025-02-20 16:00:00
+1217,Front desk staff was quite rude.,5,2025-02-20 17:00:00
+1218,Excellent facility and friendly staff.,1,2025-02-20 18:00:00
+1219,Front desk staff was quite rude.,5,2025-02-20 19:00:00
+1220,Scheduling an appointment is a nightmare.,4,2025-02-20 20:00:00
+1221,Scheduling an appointment is a nightmare.,4,2025-02-20 21:00:00
+1222,Scheduling an appointment is a nightmare.,4,2025-02-20 22:00:00
+1223,Very professional care.,5,2025-02-20 23:00:00
+1224,"Clean clinic, highly recommended.",5,2025-02-21 00:00:00
+1225,Scheduling an appointment is a nightmare.,4,2025-02-21 01:00:00
+1226,Very professional care.,2,2025-02-21 02:00:00
+1227,Scheduling an appointment is a nightmare.,4,2025-02-21 03:00:00
+1228,Excellent facility and friendly staff.,1,2025-02-21 04:00:00
+1229,Very professional care.,4,2025-02-21 05:00:00
+1230,Great service but long wait times.,5,2025-02-21 06:00:00
+1231,Waited 2 hours for a 5 minute checkup.,3,2025-02-21 07:00:00
+1232,"Clean clinic, highly recommended.",1,2025-02-21 08:00:00
+1233,"Clean clinic, highly recommended.",4,2025-02-21 09:00:00
+1234,Scheduling an appointment is a nightmare.,3,2025-02-21 10:00:00
+1235,Excellent facility and friendly staff.,3,2025-02-21 11:00:00
+1236,The doctor was very dismissive.,4,2025-02-21 12:00:00
+1237,Very professional care.,5,2025-02-21 13:00:00
+1238,Scheduling an appointment is a nightmare.,5,2025-02-21 14:00:00
+1239,Very professional care.,4,2025-02-21 15:00:00
+1240,Scheduling an appointment is a nightmare.,4,2025-02-21 16:00:00
+1241,"Clean clinic, highly recommended.",2,2025-02-21 17:00:00
+1242,"Clean clinic, highly recommended.",5,2025-02-21 18:00:00
+1243,Scheduling an appointment is a nightmare.,4,2025-02-21 19:00:00
+1244,"Clean clinic, highly recommended.",5,2025-02-21 20:00:00
+1245,Excellent facility and friendly staff.,5,2025-02-21 21:00:00
+1246,The doctor was very dismissive.,3,2025-02-21 22:00:00
+1247,The doctor was very dismissive.,5,2025-02-21 23:00:00
+1248,Very professional care.,5,2025-02-22 00:00:00
+1249,The doctor was very dismissive.,4,2025-02-22 01:00:00
+1250,Very professional care.,3,2025-02-22 02:00:00
+1251,Scheduling an appointment is a nightmare.,5,2025-02-22 03:00:00
+1252,Waited 2 hours for a 5 minute checkup.,3,2025-02-22 04:00:00
+1253,Scheduling an appointment is a nightmare.,4,2025-02-22 05:00:00
+1254,Scheduling an appointment is a nightmare.,1,2025-02-22 06:00:00
+1255,Excellent facility and friendly staff.,4,2025-02-22 07:00:00
+1256,The doctor was very dismissive.,5,2025-02-22 08:00:00
+1257,"Clean clinic, highly recommended.",3,2025-02-22 09:00:00
+1258,"Clean clinic, highly recommended.",5,2025-02-22 10:00:00
+1259,Great service but long wait times.,3,2025-02-22 11:00:00
+1260,Great service but long wait times.,5,2025-02-22 12:00:00
+1261,Very professional care.,4,2025-02-22 13:00:00
+1262,Front desk staff was quite rude.,2,2025-02-22 14:00:00
+1263,Waited 2 hours for a 5 minute checkup.,4,2025-02-22 15:00:00
+1264,Very professional care.,5,2025-02-22 16:00:00
+1265,"Clean clinic, highly recommended.",3,2025-02-22 17:00:00
+1266,The doctor was very dismissive.,5,2025-02-22 18:00:00
+1267,Very professional care.,4,2025-02-22 19:00:00
+1268,Scheduling an appointment is a nightmare.,3,2025-02-22 20:00:00
+1269,"Clean clinic, highly recommended.",5,2025-02-22 21:00:00
+1270,Waited 2 hours for a 5 minute checkup.,4,2025-02-22 22:00:00
+1271,Waited 2 hours for a 5 minute checkup.,3,2025-02-22 23:00:00
+1272,"Clean clinic, highly recommended.",2,2025-02-23 00:00:00
+1273,Front desk staff was quite rude.,4,2025-02-23 01:00:00
+1274,Great service but long wait times.,5,2025-02-23 02:00:00
+1275,Front desk staff was quite rude.,4,2025-02-23 03:00:00
+1276,The doctor was very dismissive.,5,2025-02-23 04:00:00
+1277,"Clean clinic, highly recommended.",5,2025-02-23 05:00:00
+1278,Scheduling an appointment is a nightmare.,4,2025-02-23 06:00:00
+1279,Scheduling an appointment is a nightmare.,4,2025-02-23 07:00:00
+1280,Excellent facility and friendly staff.,5,2025-02-23 08:00:00
+1281,Scheduling an appointment is a nightmare.,5,2025-02-23 09:00:00
+1282,"Clean clinic, highly recommended.",4,2025-02-23 10:00:00
+1283,"Clean clinic, highly recommended.",4,2025-02-23 11:00:00
+1284,Scheduling an appointment is a nightmare.,3,2025-02-23 12:00:00
+1285,Great service but long wait times.,2,2025-02-23 13:00:00
+1286,The doctor was very dismissive.,5,2025-02-23 14:00:00
+1287,Waited 2 hours for a 5 minute checkup.,4,2025-02-23 15:00:00
+1288,"Clean clinic, highly recommended.",2,2025-02-23 16:00:00
+1289,Scheduling an appointment is a nightmare.,5,2025-02-23 17:00:00
+1290,Waited 2 hours for a 5 minute checkup.,5,2025-02-23 18:00:00
+1291,Scheduling an appointment is a nightmare.,5,2025-02-23 19:00:00
+1292,"Clean clinic, highly recommended.",4,2025-02-23 20:00:00
+1293,Excellent facility and friendly staff.,4,2025-02-23 21:00:00
+1294,The doctor was very dismissive.,2,2025-02-23 22:00:00
+1295,"Clean clinic, highly recommended.",5,2025-02-23 23:00:00
+1296,Waited 2 hours for a 5 minute checkup.,5,2025-02-24 00:00:00
+1297,Scheduling an appointment is a nightmare.,5,2025-02-24 01:00:00
+1298,Excellent facility and friendly staff.,5,2025-02-24 02:00:00
+1299,Very professional care.,1,2025-02-24 03:00:00
+1300,"Clean clinic, highly recommended.",4,2025-02-24 04:00:00
+1301,The doctor was very dismissive.,4,2025-02-24 05:00:00
+1302,Excellent facility and friendly staff.,5,2025-02-24 06:00:00
+1303,Waited 2 hours for a 5 minute checkup.,1,2025-02-24 07:00:00
+1304,Front desk staff was quite rude.,4,2025-02-24 08:00:00
+1305,Scheduling an appointment is a nightmare.,2,2025-02-24 09:00:00
+1306,Great service but long wait times.,4,2025-02-24 10:00:00
+1307,Very professional care.,5,2025-02-24 11:00:00
+1308,Very professional care.,4,2025-02-24 12:00:00
+1309,The doctor was very dismissive.,5,2025-02-24 13:00:00
+1310,Front desk staff was quite rude.,4,2025-02-24 14:00:00
+1311,Excellent facility and friendly staff.,2,2025-02-24 15:00:00
+1312,"Clean clinic, highly recommended.",3,2025-02-24 16:00:00
+1313,"Clean clinic, highly recommended.",5,2025-02-24 17:00:00
+1314,Excellent facility and friendly staff.,3,2025-02-24 18:00:00
+1315,"Clean clinic, highly recommended.",1,2025-02-24 19:00:00
+1316,Very professional care.,3,2025-02-24 20:00:00
+1317,Very professional care.,3,2025-02-24 21:00:00
+1318,Very professional care.,4,2025-02-24 22:00:00
+1319,Excellent facility and friendly staff.,4,2025-02-24 23:00:00
+1320,The doctor was very dismissive.,5,2025-02-25 00:00:00
+1321,Very professional care.,5,2025-02-25 01:00:00
+1322,"Clean clinic, highly recommended.",1,2025-02-25 02:00:00
+1323,Front desk staff was quite rude.,5,2025-02-25 03:00:00
+1324,The doctor was very dismissive.,5,2025-02-25 04:00:00
+1325,Front desk staff was quite rude.,5,2025-02-25 05:00:00
+1326,Scheduling an appointment is a nightmare.,4,2025-02-25 06:00:00
+1327,Scheduling an appointment is a nightmare.,3,2025-02-25 07:00:00
+1328,Scheduling an appointment is a nightmare.,5,2025-02-25 08:00:00
+1329,Scheduling an appointment is a nightmare.,5,2025-02-25 09:00:00
+1330,"Clean clinic, highly recommended.",4,2025-02-25 10:00:00
+1331,Excellent facility and friendly staff.,2,2025-02-25 11:00:00
+1332,"Clean clinic, highly recommended.",4,2025-02-25 12:00:00
+1333,Waited 2 hours for a 5 minute checkup.,1,2025-02-25 13:00:00
+1334,"Clean clinic, highly recommended.",2,2025-02-25 14:00:00
+1335,The doctor was very dismissive.,3,2025-02-25 15:00:00
+1336,Excellent facility and friendly staff.,3,2025-02-25 16:00:00
+1337,Front desk staff was quite rude.,4,2025-02-25 17:00:00
+1338,Very professional care.,3,2025-02-25 18:00:00
+1339,Great service but long wait times.,1,2025-02-25 19:00:00
+1340,Great service but long wait times.,2,2025-02-25 20:00:00
+1341,Very professional care.,2,2025-02-25 21:00:00
+1342,Excellent facility and friendly staff.,4,2025-02-25 22:00:00
+1343,Great service but long wait times.,3,2025-02-25 23:00:00
+1344,Excellent facility and friendly staff.,3,2025-02-26 00:00:00
+1345,The doctor was very dismissive.,4,2025-02-26 01:00:00
+1346,The doctor was very dismissive.,3,2025-02-26 02:00:00
+1347,"Clean clinic, highly recommended.",3,2025-02-26 03:00:00
+1348,Great service but long wait times.,5,2025-02-26 04:00:00
+1349,Very professional care.,4,2025-02-26 05:00:00
+1350,Excellent facility and friendly staff.,5,2025-02-26 06:00:00
+1351,Front desk staff was quite rude.,4,2025-02-26 07:00:00
+1352,The doctor was very dismissive.,5,2025-02-26 08:00:00
+1353,"Clean clinic, highly recommended.",3,2025-02-26 09:00:00
+1354,Great service but long wait times.,4,2025-02-26 10:00:00
+1355,Great service but long wait times.,4,2025-02-26 11:00:00
+1356,Great service but long wait times.,5,2025-02-26 12:00:00
+1357,Front desk staff was quite rude.,4,2025-02-26 13:00:00
+1358,The doctor was very dismissive.,5,2025-02-26 14:00:00
+1359,Front desk staff was quite rude.,4,2025-02-26 15:00:00
+1360,The doctor was very dismissive.,5,2025-02-26 16:00:00
+1361,Great service but long wait times.,5,2025-02-26 17:00:00
+1362,The doctor was very dismissive.,5,2025-02-26 18:00:00
+1363,Great service but long wait times.,5,2025-02-26 19:00:00
+1364,Scheduling an appointment is a nightmare.,3,2025-02-26 20:00:00
+1365,The doctor was very dismissive.,3,2025-02-26 21:00:00
+1366,Excellent facility and friendly staff.,3,2025-02-26 22:00:00
+1367,The doctor was very dismissive.,1,2025-02-26 23:00:00
+1368,Great service but long wait times.,1,2025-02-27 00:00:00
+1369,Excellent facility and friendly staff.,4,2025-02-27 01:00:00
+1370,"Clean clinic, highly recommended.",5,2025-02-27 02:00:00
+1371,Excellent facility and friendly staff.,1,2025-02-27 03:00:00
+1372,Excellent facility and friendly staff.,4,2025-02-27 04:00:00
+1373,The doctor was very dismissive.,3,2025-02-27 05:00:00
+1374,Waited 2 hours for a 5 minute checkup.,5,2025-02-27 06:00:00
+1375,Excellent facility and friendly staff.,2,2025-02-27 07:00:00
+1376,Excellent facility and friendly staff.,4,2025-02-27 08:00:00
+1377,Very professional care.,5,2025-02-27 09:00:00
+1378,Great service but long wait times.,3,2025-02-27 10:00:00
+1379,The doctor was very dismissive.,5,2025-02-27 11:00:00
+1380,Great service but long wait times.,5,2025-02-27 12:00:00
+1381,The doctor was very dismissive.,2,2025-02-27 13:00:00
+1382,Front desk staff was quite rude.,5,2025-02-27 14:00:00
+1383,"Clean clinic, highly recommended.",5,2025-02-27 15:00:00
+1384,Waited 2 hours for a 5 minute checkup.,2,2025-02-27 16:00:00
+1385,Excellent facility and friendly staff.,3,2025-02-27 17:00:00
+1386,Very professional care.,4,2025-02-27 18:00:00
+1387,The doctor was very dismissive.,5,2025-02-27 19:00:00
+1388,Excellent facility and friendly staff.,2,2025-02-27 20:00:00
+1389,Excellent facility and friendly staff.,5,2025-02-27 21:00:00
+1390,Scheduling an appointment is a nightmare.,3,2025-02-27 22:00:00
+1391,Front desk staff was quite rude.,5,2025-02-27 23:00:00
+1392,Front desk staff was quite rude.,4,2025-02-28 00:00:00
+1393,Great service but long wait times.,4,2025-02-28 01:00:00
+1394,Front desk staff was quite rude.,4,2025-02-28 02:00:00
+1395,Front desk staff was quite rude.,5,2025-02-28 03:00:00
+1396,Front desk staff was quite rude.,3,2025-02-28 04:00:00
+1397,Waited 2 hours for a 5 minute checkup.,5,2025-02-28 05:00:00
+1398,Very professional care.,2,2025-02-28 06:00:00
+1399,The doctor was very dismissive.,5,2025-02-28 07:00:00
+1400,Front desk staff was quite rude.,5,2025-02-28 08:00:00
+1401,"Clean clinic, highly recommended.",4,2025-02-28 09:00:00
+1402,Waited 2 hours for a 5 minute checkup.,5,2025-02-28 10:00:00
+1403,Scheduling an appointment is a nightmare.,4,2025-02-28 11:00:00
+1404,Great service but long wait times.,5,2025-02-28 12:00:00
+1405,"Clean clinic, highly recommended.",2,2025-02-28 13:00:00
+1406,"Clean clinic, highly recommended.",2,2025-02-28 14:00:00
+1407,Excellent facility and friendly staff.,5,2025-02-28 15:00:00
+1408,Great service but long wait times.,5,2025-02-28 16:00:00
+1409,Scheduling an appointment is a nightmare.,4,2025-02-28 17:00:00
+1410,The doctor was very dismissive.,5,2025-02-28 18:00:00
+1411,The doctor was very dismissive.,4,2025-02-28 19:00:00
+1412,Scheduling an appointment is a nightmare.,5,2025-02-28 20:00:00
+1413,Excellent facility and friendly staff.,4,2025-02-28 21:00:00
+1414,Excellent facility and friendly staff.,3,2025-02-28 22:00:00
+1415,"Clean clinic, highly recommended.",4,2025-02-28 23:00:00
+1416,Front desk staff was quite rude.,5,2025-03-01 00:00:00
+1417,Great service but long wait times.,3,2025-03-01 01:00:00
+1418,"Clean clinic, highly recommended.",5,2025-03-01 02:00:00
+1419,Front desk staff was quite rude.,5,2025-03-01 03:00:00
+1420,Very professional care.,4,2025-03-01 04:00:00
+1421,Very professional care.,4,2025-03-01 05:00:00
+1422,The doctor was very dismissive.,4,2025-03-01 06:00:00
+1423,Scheduling an appointment is a nightmare.,4,2025-03-01 07:00:00
+1424,Great service but long wait times.,1,2025-03-01 08:00:00
+1425,Scheduling an appointment is a nightmare.,5,2025-03-01 09:00:00
+1426,Great service but long wait times.,4,2025-03-01 10:00:00
+1427,Waited 2 hours for a 5 minute checkup.,5,2025-03-01 11:00:00
+1428,The doctor was very dismissive.,4,2025-03-01 12:00:00
+1429,The doctor was very dismissive.,4,2025-03-01 13:00:00
+1430,Waited 2 hours for a 5 minute checkup.,4,2025-03-01 14:00:00
+1431,Great service but long wait times.,5,2025-03-01 15:00:00
+1432,Excellent facility and friendly staff.,3,2025-03-01 16:00:00
+1433,Great service but long wait times.,5,2025-03-01 17:00:00
+1434,The doctor was very dismissive.,4,2025-03-01 18:00:00
+1435,Very professional care.,5,2025-03-01 19:00:00
+1436,Scheduling an appointment is a nightmare.,5,2025-03-01 20:00:00
+1437,"Clean clinic, highly recommended.",5,2025-03-01 21:00:00
+1438,Scheduling an appointment is a nightmare.,4,2025-03-01 22:00:00
+1439,The doctor was very dismissive.,4,2025-03-01 23:00:00
+1440,Scheduling an appointment is a nightmare.,5,2025-03-02 00:00:00
+1441,Excellent facility and friendly staff.,4,2025-03-02 01:00:00
+1442,Excellent facility and friendly staff.,5,2025-03-02 02:00:00
+1443,Very professional care.,5,2025-03-02 03:00:00
+1444,Great service but long wait times.,4,2025-03-02 04:00:00
+1445,Front desk staff was quite rude.,4,2025-03-02 05:00:00
+1446,Scheduling an appointment is a nightmare.,2,2025-03-02 06:00:00
+1447,Scheduling an appointment is a nightmare.,3,2025-03-02 07:00:00
+1448,The doctor was very dismissive.,5,2025-03-02 08:00:00
+1449,Great service but long wait times.,5,2025-03-02 09:00:00
+1450,Great service but long wait times.,1,2025-03-02 10:00:00
+1451,Scheduling an appointment is a nightmare.,5,2025-03-02 11:00:00
+1452,"Clean clinic, highly recommended.",1,2025-03-02 12:00:00
+1453,Scheduling an appointment is a nightmare.,4,2025-03-02 13:00:00
+1454,Scheduling an appointment is a nightmare.,1,2025-03-02 14:00:00
+1455,Scheduling an appointment is a nightmare.,5,2025-03-02 15:00:00
+1456,Excellent facility and friendly staff.,5,2025-03-02 16:00:00
+1457,Waited 2 hours for a 5 minute checkup.,4,2025-03-02 17:00:00
+1458,Great service but long wait times.,3,2025-03-02 18:00:00
+1459,Waited 2 hours for a 5 minute checkup.,4,2025-03-02 19:00:00
+1460,Excellent facility and friendly staff.,5,2025-03-02 20:00:00
+1461,"Clean clinic, highly recommended.",3,2025-03-02 21:00:00
+1462,Front desk staff was quite rude.,4,2025-03-02 22:00:00
+1463,The doctor was very dismissive.,5,2025-03-02 23:00:00
+1464,Very professional care.,3,2025-03-03 00:00:00
+1465,"Clean clinic, highly recommended.",1,2025-03-03 01:00:00
+1466,Great service but long wait times.,4,2025-03-03 02:00:00
+1467,The doctor was very dismissive.,5,2025-03-03 03:00:00
+1468,Waited 2 hours for a 5 minute checkup.,5,2025-03-03 04:00:00
+1469,"Clean clinic, highly recommended.",1,2025-03-03 05:00:00
+1470,Great service but long wait times.,4,2025-03-03 06:00:00
+1471,Very professional care.,4,2025-03-03 07:00:00
+1472,Front desk staff was quite rude.,3,2025-03-03 08:00:00
+1473,Front desk staff was quite rude.,4,2025-03-03 09:00:00
+1474,Very professional care.,2,2025-03-03 10:00:00
+1475,"Clean clinic, highly recommended.",3,2025-03-03 11:00:00
+1476,The doctor was very dismissive.,5,2025-03-03 12:00:00
+1477,The doctor was very dismissive.,4,2025-03-03 13:00:00
+1478,"Clean clinic, highly recommended.",5,2025-03-03 14:00:00
+1479,Excellent facility and friendly staff.,3,2025-03-03 15:00:00
+1480,"Clean clinic, highly recommended.",4,2025-03-03 16:00:00
+1481,Waited 2 hours for a 5 minute checkup.,3,2025-03-03 17:00:00
+1482,"Clean clinic, highly recommended.",3,2025-03-03 18:00:00
+1483,"Clean clinic, highly recommended.",5,2025-03-03 19:00:00
+1484,Excellent facility and friendly staff.,5,2025-03-03 20:00:00
+1485,Scheduling an appointment is a nightmare.,3,2025-03-03 21:00:00
+1486,The doctor was very dismissive.,5,2025-03-03 22:00:00
+1487,Waited 2 hours for a 5 minute checkup.,5,2025-03-03 23:00:00
+1488,Great service but long wait times.,1,2025-03-04 00:00:00
+1489,The doctor was very dismissive.,3,2025-03-04 01:00:00
+1490,The doctor was very dismissive.,3,2025-03-04 02:00:00
+1491,Scheduling an appointment is a nightmare.,5,2025-03-04 03:00:00
+1492,The doctor was very dismissive.,2,2025-03-04 04:00:00
+1493,The doctor was very dismissive.,3,2025-03-04 05:00:00
+1494,Excellent facility and friendly staff.,4,2025-03-04 06:00:00
+1495,Excellent facility and friendly staff.,4,2025-03-04 07:00:00
+1496,Excellent facility and friendly staff.,5,2025-03-04 08:00:00
+1497,Excellent facility and friendly staff.,4,2025-03-04 09:00:00
+1498,Excellent facility and friendly staff.,4,2025-03-04 10:00:00
+1499,Front desk staff was quite rude.,5,2025-03-04 11:00:00
